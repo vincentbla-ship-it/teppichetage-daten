@@ -3,15 +3,15 @@
   "id": "neu-2026-11-16",
   "datum": "2026-11-16",
   "art": "neu",
-  "titel": "31 neue Stellen heute",
-  "text": "PwC (14), Bosch (3), EY Tax GmbH Steuerberatungsgesellschaft (3), EY (3), Upvest (1), LBBW (1)"
+  "titel": "34 neue Stellen heute",
+  "text": "PwC (15), Bosch (3), EY Tax GmbH Steuerberatungsgesellschaft (3), EY (3), Allianz (2), Upvest (1)"
  },
  {
   "id": "neu-2026-11-16-PwC",
   "datum": "2026-11-16",
   "art": "neu",
   "firma": "PwC",
-  "titel": "PwC hat 14 neue Stellen ausgeschrieben",
+  "titel": "PwC hat 15 neue Stellen ausgeschrieben",
   "text": "Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikant Automotive Industry (w/m/d) · Praktikum Forensic Investigations, Crisis & Corporate Security (w/m/d)"
  },
  {
@@ -148,28 +148,28 @@
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 77 offene Stellen",
-  "text": "EY 65, PwC 54 folgen dahinter."
+  "text": "EY 65, PwC 53 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-16",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 83 · Wirtschaftsprüfung 62 · Steuern 42 · Banking 16 · Controlling & Finance 12"
+  "text": "Beratung 84 · Wirtschaftsprüfung 62 · Steuern 41 · Banking 17 · Controlling & Finance 12"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-16",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 124 · München 121 · Düsseldorf 118 · Berlin 99 · Hamburg 91 · Stuttgart 79"
+  "text": "Frankfurt 124 · München 121 · Düsseldorf 118 · Berlin 99 · Hamburg 91 · Stuttgart 81"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-16",
   "art": "lage",
-  "titel": "126 Praktika und 89 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 400 Stellen in der App."
+  "titel": "128 Praktika und 88 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 401 Stellen in der App."
  },
  {
   "id": "neu-2026-11-16-BCG",
