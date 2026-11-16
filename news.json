@@ -3,16 +3,60 @@
   "id": "neu-2026-11-16",
   "datum": "2026-11-16",
   "art": "neu",
-  "titel": "5 neue Stellen seit dem letzten Abruf",
-  "text": "PwC (4), Allianz (1)"
+  "titel": "19 neue Stellen seit dem letzten Abruf",
+  "text": "PwC (9), Commerzbank AG (3), EY (3), Bosch (2), HUK - COBURG (1), HypoVereinsbank - UniCredit Bank GmbH (1)"
  },
  {
   "id": "neu-2026-11-16-PwC",
   "datum": "2026-11-16",
   "art": "neu",
   "firma": "PwC",
-  "titel": "PwC hat 4 neue Stellen ausgeschrieben",
-  "text": "Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikum Innovationsprojekte (w/m/d) · Praktikum / Werkstudent Transfer Pricing (w/m/d)"
+  "titel": "PwC hat 9 neue Stellen ausgeschrieben",
+  "text": "Praktikum Forensic Investigations, Crisis & Corporate Security (w/m/d) · Werkstudent - Technology Risk Management (w/m/d) · Praktikant / Werkstudent im Bereich IT-Transformation/CIO Advisory (w/m/d)"
+ },
+ {
+  "id": "neu-2026-11-16-EY",
+  "datum": "2026-11-16",
+  "art": "neu",
+  "firma": "EY",
+  "titel": "EY hat 3 neue Stellen ausgeschrieben",
+  "text": "EY-Parthenon Praktikant Real Estate & Infrastructure, Transformation & Projectmanagement (w/m/d) · Werkstudent People Advisory Services / Global Mobility - International Social Security (w/m/d) · EY-Parthenon Werkstudent Transformation & Projectmanagement, Infrastructure - Real Estate (w/m/d)"
+ },
+ {
+  "id": "presse-6390996",
+  "art": "presse",
+  "datum": "2026-11-16",
+  "titel": "Die KfW auf der Weltklimakonferenz COP31 in Antalya: Abschluss von zehn Vereinbarungen in Höhe von rund zwei Milliarden Euro",
+  "text": "- KfW-Chef Wintels: KfW bleibt treibende Kraft beim Umwelt- und Klimaschutz - 2026 und 2027 jeweils 50 Milliarden Euro - Verstärkte Mobilisierung von Privatkapital für die Klimafinanzierung von …",
+  "url": "https://www.presseportal.de/pm/41193/6390996",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6390970",
+  "art": "presse",
+  "datum": "2026-11-16",
+  "titel": "SQURE.IO: Europäischer Business-Messenger für souveräne Unternehmenskommunikation",
+  "text": "Ende-zu-Ende-verschlüsselt, DSGVO-konform, wahlweise in der EU-Cloud oder in der eigenen Infrastruktur: SQURE.IO ist der tägliche und notfallsichere Business-Messenger SQURE.IO von Herton Digital ist …",
+  "url": "https://www.presseportal.de/pm/183934/6390970",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6391075",
+  "art": "presse",
+  "datum": "2026-11-16",
+  "titel": "Restrukturierungskompass 2026: Was Finanzierer beobachten und was Unternehmen daraus für 2027 ableiten sollten",
+  "text": "Mittelständische Unternehmen sollten sich in ihrer Planung für 2027 auf weiter steigenden Restrukturierungsdruck und höhere Anforderungen ihrer Finanzierer einstellen. Knapp 90 Prozent der befragten …",
+  "url": "https://www.presseportal.de/pm/164573/6391075",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-40000269",
+  "art": "presse",
+  "datum": "2026-11-16",
+  "titel": "Mehrwert für Beschäftigte, keine Kosten fürs Unternehmen: Vereinigte Lohnsteuerhilfe startet Arbeitgeberprogramm",
+  "text": "Vereinigte Lohnsteuerhilfe e.V. - VLH: Praktischer Mehrwert für Mitarbeitende, der das Unternehmen nichts kostet: Mit seinem neuen Arbeitgeberprogramm ermöglicht der Lohnsteuerhilfeverein Vereinigte …",
+  "url": "https://www.presseportal.de/pm/69585/40000269",
+  "quelle": "presseportal.de"
  },
  {
   "id": "presse-6390042",
@@ -39,24 +83,6 @@
   "titel": "BVR-Präsidentin Kolak: \"Aus der konjunkturellen Erholung muss dauerhaftes Wachstum werden\"",
   "text": "BVR Bundesverband der Deutschen Volksbanken und Raiffeisenbanken: Berlin (ots) - Der BVR teilt die zuversichtlichere Konjunktureinschätzung, die der Sachverständigenrat in seinem Jahresgutachten …",
   "url": "https://www.presseportal.de/pm/40550/6388945",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6389033",
-  "art": "presse",
-  "datum": "2026-11-12",
-  "titel": "Finanzmarktklausur des Wirtschaftsrates in Berlin diskutiert über Vermögensaufbau, Investitionen und die Bedeutung finanzieller Bildung",
-  "text": "Wolfgang Steiger: \"Ohne einen leistungsfähigen Finanzmarkt wird Deutschland die anstehenden Herausforderungen nicht bewältigen können\" Wer fürs Alter vorsorgen will, muss seine Möglichkeiten kennen. …",
-  "url": "https://www.presseportal.de/pm/42899/6389033",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6388964",
-  "art": "presse",
-  "datum": "2026-11-12",
-  "titel": "Quartalsbericht 3/2026 zur Lage der chemisch-pharmazeutischen Industrie / Sondereffekte verpufft, Belastungen bleiben",
-  "text": "Verband der Chemischen Industrie (VCI): Frankfurt/Main (ots) - - Produktionsanstieg durch Sondereffekte - Höhere Preise und leicht steigende Mengen sorgen für Umsatzplus - Wirtschaftliche Lage der …",
-  "url": "https://www.presseportal.de/pm/12523/6388964",
   "quelle": "presseportal.de"
  },
  {
@@ -97,15 +123,6 @@
   "firma": "Deloitte"
  },
  {
-  "id": "presse-6379994",
-  "art": "presse",
-  "datum": "2026-10-29",
-  "titel": "KfW Research: Unternehmen kommen wieder etwas leichter an Kredite",
-  "text": "- Mittelständler und Großunternehmen berichten über einfachere Kreditverhandlungen als im Vorquartal - Banken sind aber weiterhin überdurchschnittlich restriktiv - Großunternehmen zeigen wieder mehr …",
-  "url": "https://www.presseportal.de/pm/41193/6379994",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6326481",
   "art": "presse",
   "datum": "2026-08-03",
@@ -131,28 +148,28 @@
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 77 offene Stellen",
-  "text": "EY 62, PwC 48 folgen dahinter."
+  "text": "EY 65, PwC 52 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-16",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Wirtschaftsprüfung 69 · Beratung 43 · Steuern 43 · Banking 41 · Controlling & Finance 12"
+  "text": "Beratung 83 · Wirtschaftsprüfung 61 · Steuern 42 · Banking 17 · Controlling & Finance 12"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-16",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 121 · München 118 · Düsseldorf 111 · Berlin 97 · Hamburg 87 · Stuttgart 82"
+  "text": "Frankfurt 123 · München 121 · Düsseldorf 118 · Berlin 99 · Hamburg 90 · Stuttgart 81"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-16",
   "art": "lage",
-  "titel": "122 Praktika und 86 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 396 Stellen in der App."
+  "titel": "125 Praktika und 90 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 401 Stellen in der App."
  },
  {
   "id": "neu-2026-11-15",
