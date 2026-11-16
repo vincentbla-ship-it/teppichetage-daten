@@ -1,0 +1,7 @@
+{
+  "format": 1,
+  "mindestVersion": "1.0.0",
+  "swipes": { "frei": 15, "plus": 35 },
+  "angebot": { "aktiv": true },
+  "hinweis": ""
+}
