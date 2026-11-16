@@ -1,10 +1,18 @@
 [
  {
-  "id": "neu-2026-11-15",
-  "datum": "2026-11-15",
+  "id": "neu-2026-11-16",
+  "datum": "2026-11-16",
   "art": "neu",
-  "titel": "1 neue Stelle seit dem letzten Abruf",
-  "text": "PwC (1)"
+  "titel": "5 neue Stellen seit dem letzten Abruf",
+  "text": "PwC (4), Allianz (1)"
+ },
+ {
+  "id": "neu-2026-11-16-PwC",
+  "datum": "2026-11-16",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 4 neue Stellen ausgeschrieben",
+  "text": "Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikum Innovationsprojekte (w/m/d) · Praktikum / Werkstudent Transfer Pricing (w/m/d)"
  },
  {
   "id": "presse-6390042",
@@ -25,43 +33,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6390024",
-  "art": "presse",
-  "datum": "2026-11-13",
-  "titel": "YoungBrandAwards 2026 zeichnen Debeka aus / Junge Menschen wählen eine Kombination aus Bausparvertrag und fondsgebundener Rentenversicherung zu den interessantesten Finanzprodukten ihrer Generation.",
-  "text": "Junge Menschen haben jetzt ein spezielles Bauansparprogramm der Debeka bei den YoungBrandAwards 2026 ausgezeichnet. Das Programm richtet sich an junge Menschen, die zwei Ziele zugleich verfolgen: Sie …",
-  "url": "https://www.presseportal.de/pm/57398/6390024",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6389721",
-  "art": "presse",
-  "datum": "2026-11-13",
-  "titel": "Erbschaftsteuer auf Rekordhoch: Warum das Finanzamt geerbte Häuser oft höher bewertet als der Markt",
-  "text": "Heid Immobilienbewertung Frankfurt: Frankfurt am Main (ots) - Die Erbschaft- und Schenkungsteuer hat 2025 einen neuen Höchstwert erreicht: 21,4 Milliarden Euro, ein Plus von 60,8 Prozent. Zugleich …",
-  "url": "https://www.presseportal.de/pm/183907/6389721",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6389005",
-  "art": "presse",
-  "datum": "2026-11-12",
-  "titel": "Verbraucher:innen sparen aus Überzeugung, nicht nur aus Notwendigkeit",
-  "text": "- Neun von zehn Verbraucher:innen reduzieren ihre Ausgaben bewusst. - Für 44 Prozent zählt vorrangig das Preisleistungsverhältnis, nur für 23 Prozent der niedrigste Preis. - Mehr als die Hälfte der …",
-  "url": "https://www.presseportal.de/pm/60247/6389005",
-  "quelle": "presseportal.de",
-  "firma": "Deloitte"
- },
- {
-  "id": "presse-6389000",
-  "art": "presse",
-  "datum": "2026-11-12",
-  "titel": "Neue Studie zeigt: Deutschland liebt Bargeld - aber die Mehrheit kann längst ohne Portemonnaie",
-  "text": "Bargeld oder Karte? Diese Gegenüberstellung greift zu kurz. Entscheidend für die Zukunft des Bezahlens ist vielmehr, wie Verbraucher*innen ihre Ausgaben im Griff behalten und gleichzeitig flexibel …",
-  "url": "https://www.presseportal.de/pm/101624/6389000",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6388945",
   "art": "presse",
   "datum": "2026-11-12",
@@ -71,42 +42,31 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6388867",
+  "id": "presse-6389033",
   "art": "presse",
   "datum": "2026-11-12",
-  "titel": "J&T Direktbank erhöht Festgeldzinsen auf bis zu 3,60% p.a.",
-  "text": "J&T BANKA, a.s. Zweigniederlassung Deutschland: Frankfurt am Main (ots) - Die J&T Direktbank setzt ein starkes Zeichen für Sparerinnen und Sparer: Ab dem 12.11.2026 erhöht die Bank die Zinssätze für …",
-  "url": "https://www.presseportal.de/pm/168876/6388867",
+  "titel": "Finanzmarktklausur des Wirtschaftsrates in Berlin diskutiert über Vermögensaufbau, Investitionen und die Bedeutung finanzieller Bildung",
+  "text": "Wolfgang Steiger: \"Ohne einen leistungsfähigen Finanzmarkt wird Deutschland die anstehenden Herausforderungen nicht bewältigen können\" Wer fürs Alter vorsorgen will, muss seine Möglichkeiten kennen. …",
+  "url": "https://www.presseportal.de/pm/42899/6389033",
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6388323",
+  "id": "presse-6388964",
+  "art": "presse",
+  "datum": "2026-11-12",
+  "titel": "Quartalsbericht 3/2026 zur Lage der chemisch-pharmazeutischen Industrie / Sondereffekte verpufft, Belastungen bleiben",
+  "text": "Verband der Chemischen Industrie (VCI): Frankfurt/Main (ots) - - Produktionsanstieg durch Sondereffekte - Höhere Preise und leicht steigende Mengen sorgen für Umsatzplus - Wirtschaftliche Lage der …",
+  "url": "https://www.presseportal.de/pm/12523/6388964",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6388075",
   "art": "presse",
   "datum": "2026-11-11",
-  "titel": "Ohne Reformen und technologische Innovationen könnten sich Pflegekosten bis 2050 nahezu verdreifachen",
-  "text": "- Zunahme der Pflegebedürftigen könnte zu Kosten von 305 Milliarden Euro in 2050 führen. - Vor allem die Eigenanteile in der stationären Pflege könnten deutlich steigen auf bis zu 66.500 Euro pro …",
-  "url": "https://www.presseportal.de/pm/60247/6388323",
-  "quelle": "presseportal.de",
-  "firma": "Deloitte"
- },
- {
-  "id": "presse-6384636",
-  "art": "presse",
-  "datum": "2026-11-05",
-  "titel": "KfW Award Gründen 2026: Innovative Unternehmen aus ganz Deutschland ausgezeichnet",
-  "text": "- 16 Landessiege und ein Bundessieg verliehen - Bundessieg geht an medicalvalues GmbH aus Baden-Württemberg - Sonderpreise Nachfolge erhalten PFS Anlagenbau UG aus Sachsen-Anhalt und CJBW …",
-  "url": "https://www.presseportal.de/pm/41193/6384636",
+  "titel": "Klimatechnologien als Wachstumstreiber des Welthandels: Große Exportchancen für Deutschland",
+  "text": "- Mit 11,4 Prozent und 2,8 Billionen US-Dollar: Umwelt- und Klimatechnologien gewinnen an Gewicht im Welthandel - Wachstum von durchschnittlich 6,3 Prozent pro Jahr seit 2017 - Umfangreiche …",
+  "url": "https://www.presseportal.de/pm/41193/6388075",
   "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6384499",
-  "art": "presse",
-  "datum": "2026-11-05",
-  "titel": "Steuerpläne zeigen Wirkung: Verbraucher:innen wollen weniger zuckerhaltige Getränke kaufen",
-  "text": "- Mehr als drei Viertel der Konsument:innen (77%) sind bereit, ihren Konsum zu reduzieren oder ganz auf künftig zuckersteuerpflichtige Getränke zu verzichten. - Für diejenigen, die jeden Tag …",
-  "url": "https://www.presseportal.de/pm/60247/6384499",
-  "quelle": "presseportal.de",
-  "firma": "Deloitte"
  },
  {
   "id": "presse-6383885",
@@ -137,24 +97,13 @@
   "firma": "Deloitte"
  },
  {
-  "id": "presse-6369109",
+  "id": "presse-6379994",
   "art": "presse",
-  "datum": "2026-10-12",
-  "titel": "Krankenkassen: Neustart des Gesundheitssystems könnte Finanzlücke langfristig schließen",
-  "text": "- Mehr Effizienz, Prävention und Eigenverantwortung könnten moderne Medizin für alle gesetzlich Versicherten sichern. - Ohne weitere Reformen würden bis 2035 rund 142 Milliarden Euro fehlen. - Fokus …",
-  "url": "https://www.presseportal.de/pm/60247/6369109",
-  "quelle": "presseportal.de",
-  "firma": "Deloitte"
- },
- {
-  "id": "presse-6331743",
-  "art": "presse",
-  "datum": "2026-08-12",
-  "titel": "Health-Apps und Fitnesstracker: Potenzial für die medizinische Versorgung wird noch nicht ausgeschöpft",
-  "text": "- Verbraucherinnen und Verbraucher nutzen Gesundheits-Apps und vernetzte Geräte primär zur Verbesserung ihres Lebensstils (33%). - Mit zunehmendem Alter sinkt das Interesse an Health-Apps und …",
-  "url": "https://www.presseportal.de/pm/60247/6331743",
-  "quelle": "presseportal.de",
-  "firma": "Deloitte"
+  "datum": "2026-10-29",
+  "titel": "KfW Research: Unternehmen kommen wieder etwas leichter an Kredite",
+  "text": "- Mittelständler und Großunternehmen berichten über einfachere Kreditverhandlungen als im Vorquartal - Banken sind aber weiterhin überdurchschnittlich restriktiv - Großunternehmen zeigen wieder mehr …",
+  "url": "https://www.presseportal.de/pm/41193/6379994",
+  "quelle": "presseportal.de"
  },
  {
   "id": "presse-6326481",
@@ -177,103 +126,40 @@
   "firma": "Deloitte"
  },
  {
-  "id": "presse-6313076",
-  "art": "presse",
-  "datum": "2026-07-13",
-  "titel": "Jeder Zweite in Europa shoppt mit KI-Unterstützung / Immer mehr deutsche Verbraucher:innen legen ihre Skepsis ab",
-  "text": "- Mehr als jede zweite Person (56%) in Europa nutzt bereits KI beim Shopping, vor allem für den Preisvergleich (32%). - Die Kaufentscheidung vollständig an die KI zu delegieren, kommt nur für acht …",
-  "url": "https://www.presseportal.de/pm/60247/6313076",
-  "quelle": "presseportal.de",
-  "firma": "Deloitte"
- },
- {
-  "id": "presse-6310727",
-  "art": "presse",
-  "datum": "2026-07-08",
-  "titel": "Europäischer Fußballmarkt überschreitet erstmals die Marke von 40 Milliarden Euro / Bundesliga erzielt Rekordumsatz und höchstes operatives Ergebnis ihrer Geschichte",
-  "text": "- Über die Hälfte des Gesamtumsatzes im europäischen Fußballmarkt steuern die \"Big Five\"-Ligen bei. - Höchster Umsatz in der englischen Premier League (8,1 Mrd. Euro) vor der deutschen Bundesliga (4,3 …",
-  "url": "https://www.presseportal.de/pm/60247/6310727",
-  "quelle": "presseportal.de",
-  "firma": "Deloitte"
- },
- {
-  "id": "presse-6306862",
-  "art": "presse",
-  "datum": "2026-07-02",
-  "titel": "Großteil der Unternehmen in Deutschland setzt auf strikten Sparkurs / Investitionen in Resilienz priorisiert nur jeder fünfte Finanzvorstand",
-  "text": "- Um langfristig wettbewerbsfähig zu bleiben, setzen 68 Prozent auf Kostensenkungen und 64 Prozent auf die Integration von Künstlicher Intelligenz. - Die CFOs rechnen mit Preissteigerungen von …",
-  "url": "https://www.presseportal.de/pm/60247/6306862",
-  "quelle": "presseportal.de",
-  "firma": "Deloitte"
- },
- {
-  "id": "presse-6292204",
-  "art": "presse",
-  "datum": "2026-06-11",
-  "titel": "Fast jeder Zweite besorgt um Deutschlands technologische Abhängigkeit in der Telekommunikation / Mehrheit lehnt höhere Preise für europäische Lösungen jedoch ab",
-  "text": "- Die Hälfte der Deutschen (48%) nimmt eine technologische Abhängigkeit wahr, doch nur etwa jeder Dritte (30%) ist bereit, für europäische Kommunikationslösungen mehr zu zahlen. - Vier von zehn …",
-  "url": "https://www.presseportal.de/pm/60247/6292204",
-  "quelle": "presseportal.de",
-  "firma": "Deloitte"
- },
- {
-  "id": "presse-6287794",
-  "art": "presse",
-  "datum": "2026-06-03",
-  "titel": "Deloitte Studie: Kreislaufwirtschaft gewinnt strategische Bedeutung / Unternehmen sehen Chance für resilientere Wertschöpfungsketten / Umsetzung bleibt hinter strategischer Bedeutung zurück",
-  "text": "Geopolitische Spannungen stellen die Wertschöpfungsketten deutscher Unternehmen zunehmend auf die Probe. Eine aktuelle, repräsentative Befragung im Auftrag von Deloitte unter 1.000 …",
-  "url": "https://www.presseportal.de/pm/60247/6287794",
-  "quelle": "presseportal.de",
-  "firma": "Deloitte"
- },
- {
-  "id": "presse-6283497",
-  "art": "presse",
-  "datum": "2026-05-28",
-  "titel": "Unter Kostendruck: Lebenspläne von Gen Z und Millennials verschieben sich",
-  "text": "- 45 Prozent der Gen Z und 39 Prozent der Millennials in Deutschland haben wichtige Lebensschritte aus finanziellen Gründen verzögert. - Für 62 Prozent der Gen Z und 64 Prozent der Millennials …",
-  "url": "https://www.presseportal.de/pm/60247/6283497",
-  "quelle": "presseportal.de",
-  "firma": "Deloitte"
- },
- {
-  "id": "presse-6279738",
-  "art": "presse",
-  "datum": "2026-05-22",
-  "titel": "Auszeichnung für vorbildliche Unternehmensführung / 38 Firmen erhalten den Best Managed Companies Award",
-  "text": "- Deloitte zeichnet zum achten Mal exzellentes Management im deutschen Mittelstand aus. - Die prämierten Unternehmen überzeugen in den Bereichen Strategie, Produktivität und Innovation, Kultur und …",
-  "url": "https://www.presseportal.de/pm/60247/6279738",
-  "quelle": "presseportal.de",
-  "firma": "Deloitte"
- },
- {
   "id": "lage-firma",
-  "datum": "2026-11-15",
+  "datum": "2026-11-16",
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 77 offene Stellen",
-  "text": "EY 62, PwC 50 folgen dahinter."
+  "text": "EY 62, PwC 48 folgen dahinter."
  },
  {
   "id": "lage-bereich",
-  "datum": "2026-11-15",
+  "datum": "2026-11-16",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Wirtschaftsprüfung 69 · Beratung 50 · Banking 42 · Steuern 41 · Controlling & Finance 12"
+  "text": "Wirtschaftsprüfung 69 · Beratung 43 · Steuern 43 · Banking 41 · Controlling & Finance 12"
  },
  {
   "id": "lage-stadt",
-  "datum": "2026-11-15",
+  "datum": "2026-11-16",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 121 · München 119 · Düsseldorf 112 · Berlin 96 · Hamburg 87 · Stuttgart 79"
+  "text": "Frankfurt 121 · München 118 · Düsseldorf 111 · Berlin 97 · Hamburg 87 · Stuttgart 82"
  },
  {
   "id": "lage-art",
-  "datum": "2026-11-15",
+  "datum": "2026-11-16",
   "art": "lage",
-  "titel": "125 Praktika und 89 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 410 Stellen in der App."
+  "titel": "122 Praktika und 86 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 396 Stellen in der App."
+ },
+ {
+  "id": "neu-2026-11-15",
+  "datum": "2026-11-15",
+  "art": "neu",
+  "titel": "1 neue Stelle seit dem letzten Abruf",
+  "text": "PwC (1)"
  },
  {
   "id": "neu-2026-11-14",
