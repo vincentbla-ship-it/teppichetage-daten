@@ -1,26 +1,18 @@
 [
  {
-  "id": "neu-2026-11-16",
-  "datum": "2026-11-16",
+  "id": "neu-2026-11-17",
+  "datum": "2026-11-17",
   "art": "neu",
-  "titel": "34 neue Stellen heute",
-  "text": "PwC (15), Bosch (3), EY Tax GmbH Steuerberatungsgesellschaft (3), EY (3), Allianz (2), Upvest (1)"
+  "titel": "3 neue Stellen heute",
+  "text": "PwC (3)"
  },
  {
-  "id": "neu-2026-11-16-PwC",
-  "datum": "2026-11-16",
+  "id": "neu-2026-11-17-PwC",
+  "datum": "2026-11-17",
   "art": "neu",
   "firma": "PwC",
-  "titel": "PwC hat 15 neue Stellen ausgeschrieben",
-  "text": "Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikant Automotive Industry (w/m/d) · Praktikum Forensic Investigations, Crisis & Corporate Security (w/m/d)"
- },
- {
-  "id": "neu-2026-11-16-EY",
-  "datum": "2026-11-16",
-  "art": "neu",
-  "firma": "EY",
-  "titel": "EY hat 3 neue Stellen ausgeschrieben",
-  "text": "EY-Parthenon Praktikant Real Estate & Infrastructure, Transformation & Projectmanagement (w/m/d) · Werkstudent People Advisory Services / Global Mobility - International Social Security (w/m/d) · EY-Parthenon Werkstudent Transformation & Projectmanagement, Infrastructure - Real Estate (w/m/d)"
+  "titel": "PwC hat 3 neue Stellen ausgeschrieben",
+  "text": "Praktikum / Werkstudent Digital Business & Innovation (w/m/d) · Praktikum Transaktionsberatung Real Estate (w/m/d) · Praktikum / Werkstudent Indirect Tax (w/m/d)"
  },
  {
   "id": "presse-6390996",
@@ -133,43 +125,56 @@
   "firma": "Deloitte"
  },
  {
-  "id": "presse-6317474",
-  "art": "presse",
-  "datum": "2026-07-20",
-  "titel": "Hohe Kosten und geringe Binnennachfrage belasten mittelständische Unternehmen",
-  "text": "- Für 72 Prozent der Finanzverantwortlichen im Mittelstand hat die Kostenreduktion in den kommenden zwölf Monaten oberste Priorität. - Der Personalabbau setzt sich fort: Mittelständler erwarten …",
-  "url": "https://www.presseportal.de/pm/60247/6317474",
-  "quelle": "presseportal.de",
-  "firma": "Deloitte"
- },
- {
   "id": "lage-firma",
-  "datum": "2026-11-16",
+  "datum": "2026-11-17",
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 77 offene Stellen",
-  "text": "EY 65, PwC 53 folgen dahinter."
+  "text": "EY 65, PwC 54 folgen dahinter."
  },
  {
   "id": "lage-bereich",
-  "datum": "2026-11-16",
+  "datum": "2026-11-17",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 84 · Wirtschaftsprüfung 62 · Steuern 41 · Banking 17 · Controlling & Finance 12"
+  "text": "Beratung 84 · Wirtschaftsprüfung 62 · Steuern 42 · Banking 17 · Controlling & Finance 12"
  },
  {
   "id": "lage-stadt",
-  "datum": "2026-11-16",
+  "datum": "2026-11-17",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 124 · München 121 · Düsseldorf 118 · Berlin 99 · Hamburg 91 · Stuttgart 81"
+  "text": "Frankfurt 124 · München 122 · Düsseldorf 117 · Berlin 99 · Hamburg 90 · Stuttgart 82"
  },
  {
   "id": "lage-art",
-  "datum": "2026-11-16",
+  "datum": "2026-11-17",
   "art": "lage",
-  "titel": "128 Praktika und 88 Werkstudentenjobs bei Top-Arbeitgebern",
+  "titel": "127 Praktika und 90 Werkstudentenjobs bei Top-Arbeitgebern",
   "text": "Insgesamt 401 Stellen in der App."
+ },
+ {
+  "id": "neu-2026-11-16",
+  "datum": "2026-11-16",
+  "art": "neu",
+  "titel": "34 neue Stellen heute",
+  "text": "PwC (15), Bosch (3), EY Tax GmbH Steuerberatungsgesellschaft (3), EY (3), Allianz (2), Upvest (1)"
+ },
+ {
+  "id": "neu-2026-11-16-PwC",
+  "datum": "2026-11-16",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 15 neue Stellen ausgeschrieben",
+  "text": "Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikant Automotive Industry (w/m/d) · Praktikum Forensic Investigations, Crisis & Corporate Security (w/m/d)"
+ },
+ {
+  "id": "neu-2026-11-16-EY",
+  "datum": "2026-11-16",
+  "art": "neu",
+  "firma": "EY",
+  "titel": "EY hat 3 neue Stellen ausgeschrieben",
+  "text": "EY-Parthenon Praktikant Real Estate & Infrastructure, Transformation & Projectmanagement (w/m/d) · Werkstudent People Advisory Services / Global Mobility - International Social Security (w/m/d) · EY-Parthenon Werkstudent Transformation & Projectmanagement, Infrastructure - Real Estate (w/m/d)"
  },
  {
   "id": "neu-2026-11-16-BCG",
