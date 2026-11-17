@@ -3,8 +3,8 @@
   "id": "neu-2026-11-17",
   "datum": "2026-11-17",
   "art": "neu",
-  "titel": "14 neue Stellen heute",
-  "text": "PwC (7), BCG (4), EY (2), Mestemacher GmbH (1)"
+  "titel": "31 neue Stellen heute",
+  "text": "PwC (7), EY GmbH & Co. KG WPG (6), BCG (4), Bosch (3), Scalable Capital (2), EY Tax GmbH Steuerberatungsgesellschaft (2)"
  },
  {
   "id": "neu-2026-11-17-PwC",
@@ -12,7 +12,7 @@
   "art": "neu",
   "firma": "PwC",
   "titel": "PwC hat 7 neue Stellen ausgeschrieben",
-  "text": "Praktikum / Werkstudent Digital Business & Innovation (w/m/d) · Praktikum Governance, Internal Audit & Compliance Consulting (w/m/d) · Praktikum Energiewirtschaftliche Beratung (w/m/d)"
+  "text": "Praktikum Financial Services Consulting - Transformation (w/m/d) · Praktikum / Werkstudent Digital Business & Innovation (w/m/d) · Praktikant Automotive Industry (w/m/d)"
  },
  {
   "id": "neu-2026-11-17-BCG",
@@ -165,29 +165,29 @@
   "datum": "2026-11-17",
   "art": "lage",
   "firma": "Deloitte",
-  "titel": "Deloitte sucht gerade am meisten: 75 offene Stellen",
-  "text": "EY 65, PwC 56 folgen dahinter."
+  "titel": "Deloitte sucht gerade am meisten: 74 offene Stellen",
+  "text": "EY 65, PwC 53 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-17",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 87 · Wirtschaftsprüfung 62 · Steuern 43 · Banking 17 · Controlling & Finance 11"
+  "text": "Beratung 87 · Wirtschaftsprüfung 60 · Steuern 41 · Banking 19 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-17",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 126 · München 124 · Düsseldorf 121 · Berlin 102 · Hamburg 92 · Stuttgart 82"
+  "text": "Frankfurt 123 · München 120 · Düsseldorf 116 · Berlin 99 · Hamburg 88 · Stuttgart 78"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-17",
   "art": "lage",
-  "titel": "129 Praktika und 91 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 403 Stellen in der App."
+  "titel": "128 Praktika und 90 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 413 Stellen in der App."
  },
  {
   "id": "neu-2026-11-16",
