@@ -3,16 +3,61 @@
   "id": "neu-2026-11-17",
   "datum": "2026-11-17",
   "art": "neu",
-  "titel": "3 neue Stellen heute",
-  "text": "PwC (3)"
+  "titel": "14 neue Stellen heute",
+  "text": "PwC (7), BCG (4), EY (2), Mestemacher GmbH (1)"
  },
  {
   "id": "neu-2026-11-17-PwC",
   "datum": "2026-11-17",
   "art": "neu",
   "firma": "PwC",
-  "titel": "PwC hat 3 neue Stellen ausgeschrieben",
-  "text": "Praktikum / Werkstudent Digital Business & Innovation (w/m/d) · Praktikum Transaktionsberatung Real Estate (w/m/d) · Praktikum / Werkstudent Indirect Tax (w/m/d)"
+  "titel": "PwC hat 7 neue Stellen ausgeschrieben",
+  "text": "Praktikum / Werkstudent Digital Business & Innovation (w/m/d) · Praktikum Governance, Internal Audit & Compliance Consulting (w/m/d) · Praktikum Energiewirtschaftliche Beratung (w/m/d)"
+ },
+ {
+  "id": "neu-2026-11-17-BCG",
+  "datum": "2026-11-17",
+  "art": "neu",
+  "firma": "BCG",
+  "titel": "BCG hat 4 neue Stellen ausgeschrieben",
+  "text": "Working Student—Alumni Relations (all genders) · Working Student - BCG Vantage, Industrial Goods · [Banco de Talentos] Forward Deployed AI Scientist Intern, Brazil - BCG X"
+ },
+ {
+  "id": "presse-6392135",
+  "art": "presse",
+  "datum": "2026-11-17",
+  "titel": "\"Inside Deutsche Bank\": \"frontal\"-Doku im ZDF zum größten Banken-Leak",
+  "text": "Mehr als 15 Millionen interne Dokumente, darunter mehr als neun Millionen E-Mails sowie Berichte, Präsentationen und Kalendereinträge, geben Einblick in den Umgang der Deutschen Bank mit umstrittenen …",
+  "url": "https://www.presseportal.de/pm/7840/6392135",
+  "quelle": "presseportal.de",
+  "firma": "Deutsche Bank"
+ },
+ {
+  "id": "presse-6392038",
+  "art": "presse",
+  "datum": "2026-11-17",
+  "titel": "BVR: Gründungen ziehen wieder an / KI sorgt für kräftigen Schub",
+  "text": "BVR Bundesverband der Deutschen Volksbanken und Raiffeisenbanken: Berlin (ots) - Das Gründungsgeschehen in Deutschland gewinnt wieder an Dynamik. Nach Prognosen des Bundesverbandes der Deutschen …",
+  "url": "https://www.presseportal.de/pm/40550/6392038",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6391999",
+  "art": "presse",
+  "datum": "2026-11-17",
+  "titel": "Munich Private Equity zahlt im Dezember über 50 Millionen Euro an Privatanleger aus",
+  "text": "Munich Private Equity tätigt Anfang Dezember zwei weitere Auszahlungen an Privatanlegerinnen und -anleger. Insgesamt fließen aus den Private-Equity-Dachfonds International III und IV* über 50 …",
+  "url": "https://www.presseportal.de/pm/122777/6391999",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6391914",
+  "art": "presse",
+  "datum": "2026-11-17",
+  "titel": "Bertelsmann erzielt neuen Höchstwert beim Konzernumsatz nach neun Monaten, organisches Wachstum von 6,4 Prozent",
+  "text": "- Konzern setzt starkes Wachstum weiter fort - Neuer Höchstwert: Umsatz von 14,7 Mrd. Euro nach drittem Quartal - Wachstum in nahezu allen Unternehmensbereichen - Investitionen von 3,0 Mrd. Euro in …",
+  "url": "https://www.presseportal.de/pm/7842/6391914",
+  "quelle": "presseportal.de"
  },
  {
   "id": "presse-6390996",
@@ -57,15 +102,6 @@
   "titel": "KfW IPEX-Bank finanziert Windparks in der Türkei",
   "text": "- Windparks Edirne und Balkaya mit einer Gesamtkapazität von 750 MW - Windpark Yellice mit einer Gesamtkapazität von 160 MW - Deutsche Exporte im Fokus: Lieferung und Installation von Windturbinen …",
   "url": "https://www.presseportal.de/pm/69662/6390042",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6390129",
-  "art": "presse",
-  "datum": "2026-11-13",
-  "titel": "Bundesbank-Präsident Prof. Dr. Joachim Nagel warnt vor Abhängigkeiten und fordert Mut, Entbürokratisierung und Größe / Markt erwartet zwei Leitzinserhöhungen",
-  "text": "Bei der Premiere des Dialogformats \"Talking HEADS\" in der Aschheimer Büroentwicklung HEADS hat Bundesbank-Präsident Prof. Dr. Joachim Nagel vor mehr als 200 Gästen über die Geldpolitik der EZB …",
-  "url": "https://www.presseportal.de/pm/165406/6390129",
   "quelle": "presseportal.de"
  },
  {
@@ -129,29 +165,29 @@
   "datum": "2026-11-17",
   "art": "lage",
   "firma": "Deloitte",
-  "titel": "Deloitte sucht gerade am meisten: 77 offene Stellen",
-  "text": "EY 65, PwC 54 folgen dahinter."
+  "titel": "Deloitte sucht gerade am meisten: 75 offene Stellen",
+  "text": "EY 65, PwC 56 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-17",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 84 · Wirtschaftsprüfung 62 · Steuern 42 · Banking 17 · Controlling & Finance 12"
+  "text": "Beratung 87 · Wirtschaftsprüfung 62 · Steuern 43 · Banking 17 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-17",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 124 · München 122 · Düsseldorf 117 · Berlin 99 · Hamburg 90 · Stuttgart 82"
+  "text": "Frankfurt 126 · München 124 · Düsseldorf 121 · Berlin 102 · Hamburg 92 · Stuttgart 82"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-17",
   "art": "lage",
-  "titel": "127 Praktika und 90 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 401 Stellen in der App."
+  "titel": "129 Praktika und 91 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 403 Stellen in der App."
  },
  {
   "id": "neu-2026-11-16",
