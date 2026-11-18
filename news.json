@@ -3,16 +3,25 @@
   "id": "neu-2026-11-18",
   "datum": "2026-11-18",
   "art": "neu",
-  "titel": "12 neue Stellen heute",
-  "text": "PwC (7), Bosch (1), ING Deutschland (1), HARIBO GmbH & Co. KG (1), LBBW (1), Robert Bosch GmbH (1)"
+  "titel": "136 neue Stellen heute",
+  "text": "PricewaterhouseCoopers GmbH WPG (119), PwC (9), LBBW (2), Trade Republic (1), Bosch (1), ING Deutschland (1)"
  },
  {
   "id": "neu-2026-11-18-PwC",
   "datum": "2026-11-18",
   "art": "neu",
   "firma": "PwC",
-  "titel": "PwC hat 7 neue Stellen ausgeschrieben",
-  "text": "Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikum / Werkstudent Digital Business & Innovation (w/m/d) · Praktikum Energiewirtschaftliche Beratung (w/m/d)"
+  "titel": "PwC hat 9 neue Stellen ausgeschrieben",
+  "text": "Praktikum Sales & Business Development - Customer Growth & AI (w/m/d) · Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikum / Werkstudent Digital Business & Innovation (w/m/d)"
+ },
+ {
+  "id": "presse-6393118",
+  "art": "presse",
+  "datum": "2026-11-18",
+  "titel": "Das Portfolio breit aufstellen: Digital in physische Edelmetalle investieren / Investment-App der Liechtensteinischen Landesbank, willbe, erweitert Edelmetallangebot um physisches Silber",
+  "text": "Wer sein Vermögen breit streuen möchte und auch an Edelmetalle denkt, der hat mehr Möglichkeiten als eine Anlage in Gold. Silber, aber auch Platin und Palladium sind in der verarbeitenden Industrie …",
+  "url": "https://www.presseportal.de/pm/165330/6393118",
+  "quelle": "presseportal.de"
  },
  {
   "id": "presse-6392864",
@@ -21,6 +30,15 @@
   "titel": "KfW fördert erstes Geothermieprojekt unter dem Deutschlandfonds",
   "text": "- KfW-Darlehen mit Fündigkeitsversicherung finanziert Bohrungen in Bayern - Kooperation von KfW, Bundeswirtschaftsministerium und Munich Re - Sieben weitere Projekte in Prüfung Die KfW fördert …",
   "url": "https://www.presseportal.de/pm/41193/6392864",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6393162",
+  "art": "presse",
+  "datum": "2026-11-18",
+  "titel": "BVR: Finanzbildungsstrategie muss vorhandene Stärken nutzen und Wirkung messbar machen",
+  "text": "BVR Bundesverband der Deutschen Volksbanken und Raiffeisenbanken: Berlin (ots) - Der Bundesverband der Deutschen Volksbanken und Raiffeisenbanken (BVR) begrüßt die heute vom Bundeskabinett …",
+  "url": "https://www.presseportal.de/pm/40550/6393162",
   "quelle": "presseportal.de"
  },
  {
@@ -67,24 +85,6 @@
   "titel": "BVR: Gründungen ziehen wieder an / KI sorgt für kräftigen Schub",
   "text": "BVR Bundesverband der Deutschen Volksbanken und Raiffeisenbanken: Berlin (ots) - Das Gründungsgeschehen in Deutschland gewinnt wieder an Dynamik. Nach Prognosen des Bundesverbandes der Deutschen …",
   "url": "https://www.presseportal.de/pm/40550/6392038",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6391999",
-  "art": "presse",
-  "datum": "2026-11-17",
-  "titel": "Munich Private Equity zahlt im Dezember über 50 Millionen Euro an Privatanleger aus",
-  "text": "Munich Private Equity tätigt Anfang Dezember zwei weitere Auszahlungen an Privatanlegerinnen und -anleger. Insgesamt fließen aus den Private-Equity-Dachfonds International III und IV* über 50 …",
-  "url": "https://www.presseportal.de/pm/122777/6391999",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6391914",
-  "art": "presse",
-  "datum": "2026-11-17",
-  "titel": "Bertelsmann erzielt neuen Höchstwert beim Konzernumsatz nach neun Monaten, organisches Wachstum von 6,4 Prozent",
-  "text": "- Konzern setzt starkes Wachstum weiter fort - Neuer Höchstwert: Umsatz von 14,7 Mrd. Euro nach drittem Quartal - Wachstum in nahezu allen Unternehmensbereichen - Investitionen von 3,0 Mrd. Euro in …",
-  "url": "https://www.presseportal.de/pm/7842/6391914",
   "quelle": "presseportal.de"
  },
  {
@@ -167,28 +167,28 @@
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 74 offene Stellen",
-  "text": "EY 65, PwC 53 folgen dahinter."
+  "text": "EY 65, PwC 50 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-18",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 88 · Wirtschaftsprüfung 59 · Steuern 42 · Banking 18 · Controlling & Finance 11"
+  "text": "Beratung 85 · Wirtschaftsprüfung 60 · Steuern 41 · Banking 18 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-18",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 123 · München 122 · Düsseldorf 117 · Berlin 99 · Hamburg 87 · Stuttgart 79"
+  "text": "Frankfurt 121 · München 118 · Düsseldorf 114 · Berlin 99 · Hamburg 86 · Stuttgart 76"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-18",
   "art": "lage",
-  "titel": "127 Praktika und 91 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 405 Stellen in der App."
+  "titel": "125 Praktika und 90 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 514 Stellen in der App."
  },
  {
   "id": "neu-2026-11-17",
