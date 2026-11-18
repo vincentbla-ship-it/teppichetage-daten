@@ -1,26 +1,27 @@
 [
  {
-  "id": "neu-2026-11-17",
-  "datum": "2026-11-17",
+  "id": "neu-2026-11-18",
+  "datum": "2026-11-18",
   "art": "neu",
-  "titel": "31 neue Stellen heute",
-  "text": "PwC (7), EY GmbH & Co. KG WPG (6), BCG (4), Bosch (3), Scalable Capital (2), EY Tax GmbH Steuerberatungsgesellschaft (2)"
+  "titel": "4 neue Stellen heute",
+  "text": "PwC (4)"
  },
  {
-  "id": "neu-2026-11-17-PwC",
-  "datum": "2026-11-17",
+  "id": "neu-2026-11-18-PwC",
+  "datum": "2026-11-18",
   "art": "neu",
   "firma": "PwC",
-  "titel": "PwC hat 7 neue Stellen ausgeschrieben",
-  "text": "Praktikum Financial Services Consulting - Transformation (w/m/d) · Praktikum / Werkstudent Digital Business & Innovation (w/m/d) · Praktikant Automotive Industry (w/m/d)"
+  "titel": "PwC hat 4 neue Stellen ausgeschrieben",
+  "text": "Praktikum Energiewirtschaftliche Beratung (w/m/d) · Praktikant / Werkstudent Financial Services Consulting - Finance, Reporting & Sustainability (w/m/d) · Praktikum energiewirtschaftliche Prüfung und Beratung (w/m/d)"
  },
  {
-  "id": "neu-2026-11-17-BCG",
-  "datum": "2026-11-17",
-  "art": "neu",
-  "firma": "BCG",
-  "titel": "BCG hat 4 neue Stellen ausgeschrieben",
-  "text": "Working Student—Alumni Relations (all genders) · Working Student - BCG Vantage, Industrial Goods · [Banco de Talentos] Forward Deployed AI Scientist Intern, Brazil - BCG X"
+  "id": "presse-6392610",
+  "art": "presse",
+  "datum": "2026-11-18",
+  "titel": "Bundesbankpräsident Nagel geht im ARD-Wirtschaftsmagazin \"Plusminus\" von Leitzinserhöhung der EZB aus: \"Möglicherweise müssen wir nochmal an der Zinsschraube drehen\"",
+  "text": "HR Hessischer Rundfunk: Frankfurt am Main (ots) - Angesichts der Aussicht auf eine höhere Inflation schließt Bundesbankpräsident Joachim Nagel weitere Zinserhöhungen der Europäischen Zentralbank (EZB) …",
+  "url": "https://www.presseportal.de/pm/177784/6392610",
+  "quelle": "presseportal.de"
  },
  {
   "id": "presse-6392135",
@@ -84,15 +85,6 @@
   "titel": "Restrukturierungskompass 2026: Was Finanzierer beobachten und was Unternehmen daraus für 2027 ableiten sollten",
   "text": "Mittelständische Unternehmen sollten sich in ihrer Planung für 2027 auf weiter steigenden Restrukturierungsdruck und höhere Anforderungen ihrer Finanzierer einstellen. Knapp 90 Prozent der befragten …",
   "url": "https://www.presseportal.de/pm/164573/6391075",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-40000269",
-  "art": "presse",
-  "datum": "2026-11-16",
-  "titel": "Mehrwert für Beschäftigte, keine Kosten fürs Unternehmen: Vereinigte Lohnsteuerhilfe startet Arbeitgeberprogramm",
-  "text": "Vereinigte Lohnsteuerhilfe e.V. - VLH: Praktischer Mehrwert für Mitarbeitende, der das Unternehmen nichts kostet: Mit seinem neuen Arbeitgeberprogramm ermöglicht der Lohnsteuerhilfeverein Vereinigte …",
-  "url": "https://www.presseportal.de/pm/69585/40000269",
   "quelle": "presseportal.de"
  },
  {
@@ -162,32 +154,55 @@
  },
  {
   "id": "lage-firma",
-  "datum": "2026-11-17",
+  "datum": "2026-11-18",
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 74 offene Stellen",
-  "text": "EY 65, PwC 53 folgen dahinter."
+  "text": "EY 65, PwC 52 folgen dahinter."
  },
  {
   "id": "lage-bereich",
-  "datum": "2026-11-17",
+  "datum": "2026-11-18",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 87 · Wirtschaftsprüfung 60 · Steuern 41 · Banking 19 · Controlling & Finance 11"
+  "text": "Beratung 88 · Wirtschaftsprüfung 58 · Steuern 41 · Banking 19 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
-  "datum": "2026-11-17",
+  "datum": "2026-11-18",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 123 · München 120 · Düsseldorf 116 · Berlin 99 · Hamburg 88 · Stuttgart 78"
+  "text": "München 122 · Frankfurt 122 · Düsseldorf 117 · Berlin 98 · Hamburg 86 · Stuttgart 80"
  },
  {
   "id": "lage-art",
-  "datum": "2026-11-17",
+  "datum": "2026-11-18",
   "art": "lage",
-  "titel": "128 Praktika und 90 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 413 Stellen in der App."
+  "titel": "129 Praktika und 88 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 404 Stellen in der App."
+ },
+ {
+  "id": "neu-2026-11-17",
+  "datum": "2026-11-17",
+  "art": "neu",
+  "titel": "31 neue Stellen heute",
+  "text": "PwC (7), EY GmbH & Co. KG WPG (6), BCG (4), Bosch (3), Scalable Capital (2), EY Tax GmbH Steuerberatungsgesellschaft (2)"
+ },
+ {
+  "id": "neu-2026-11-17-PwC",
+  "datum": "2026-11-17",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 7 neue Stellen ausgeschrieben",
+  "text": "Praktikum Financial Services Consulting - Transformation (w/m/d) · Praktikum / Werkstudent Digital Business & Innovation (w/m/d) · Praktikant Automotive Industry (w/m/d)"
+ },
+ {
+  "id": "neu-2026-11-17-BCG",
+  "datum": "2026-11-17",
+  "art": "neu",
+  "firma": "BCG",
+  "titel": "BCG hat 4 neue Stellen ausgeschrieben",
+  "text": "Working Student—Alumni Relations (all genders) · Working Student - BCG Vantage, Industrial Goods · [Banco de Talentos] Forward Deployed AI Scientist Intern, Brazil - BCG X"
  },
  {
   "id": "neu-2026-11-16",
