@@ -3,16 +3,43 @@
   "id": "neu-2026-11-18",
   "datum": "2026-11-18",
   "art": "neu",
-  "titel": "4 neue Stellen heute",
-  "text": "PwC (4)"
+  "titel": "12 neue Stellen heute",
+  "text": "PwC (7), Bosch (1), ING Deutschland (1), HARIBO GmbH & Co. KG (1), LBBW (1), Robert Bosch GmbH (1)"
  },
  {
   "id": "neu-2026-11-18-PwC",
   "datum": "2026-11-18",
   "art": "neu",
   "firma": "PwC",
-  "titel": "PwC hat 4 neue Stellen ausgeschrieben",
-  "text": "Praktikum Energiewirtschaftliche Beratung (w/m/d) · Praktikant / Werkstudent Financial Services Consulting - Finance, Reporting & Sustainability (w/m/d) · Praktikum energiewirtschaftliche Prüfung und Beratung (w/m/d)"
+  "titel": "PwC hat 7 neue Stellen ausgeschrieben",
+  "text": "Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikum / Werkstudent Digital Business & Innovation (w/m/d) · Praktikum Energiewirtschaftliche Beratung (w/m/d)"
+ },
+ {
+  "id": "presse-6392864",
+  "art": "presse",
+  "datum": "2026-11-18",
+  "titel": "KfW fördert erstes Geothermieprojekt unter dem Deutschlandfonds",
+  "text": "- KfW-Darlehen mit Fündigkeitsversicherung finanziert Bohrungen in Bayern - Kooperation von KfW, Bundeswirtschaftsministerium und Munich Re - Sieben weitere Projekte in Prüfung Die KfW fördert …",
+  "url": "https://www.presseportal.de/pm/41193/6392864",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6392837",
+  "art": "presse",
+  "datum": "2026-11-18",
+  "titel": "Aktien des schwedischen Unternehmens Argo Defence Group an der Börse Stuttgart handelbar",
+  "text": "Zwei europäische Börsen der Boerse Stuttgart Group kombinieren ihre Services, um schwedischen Wachstumsunternehmen ein einzigartiges Angebot für ein duales Listing zu eröffnen. Die Aktien des …",
+  "url": "https://www.presseportal.de/pm/80210/6392837",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6392744",
+  "art": "presse",
+  "datum": "2026-11-18",
+  "titel": "Immobilienfinanzierung: Neugeschäft mit Plus im Vorjahres- und Minus im Vorquartalsvergleich",
+  "text": "Verband deutscher Pfandbriefbanken (vdp) e.V.: Berlin (ots) - - vdp-Mitgliedsinstitute vergeben von Januar bis September 2026 Immobiliendarlehen in Höhe von 116,9 Mrd. Euro In den ersten drei …",
+  "url": "https://www.presseportal.de/pm/29608/6392744",
+  "quelle": "presseportal.de"
  },
  {
   "id": "presse-6392610",
@@ -79,15 +106,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6391075",
-  "art": "presse",
-  "datum": "2026-11-16",
-  "titel": "Restrukturierungskompass 2026: Was Finanzierer beobachten und was Unternehmen daraus für 2027 ableiten sollten",
-  "text": "Mittelständische Unternehmen sollten sich in ihrer Planung für 2027 auf weiter steigenden Restrukturierungsdruck und höhere Anforderungen ihrer Finanzierer einstellen. Knapp 90 Prozent der befragten …",
-  "url": "https://www.presseportal.de/pm/164573/6391075",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6390042",
   "art": "presse",
   "datum": "2026-11-13",
@@ -124,15 +142,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6382120",
-  "art": "presse",
-  "datum": "2026-11-02",
-  "titel": "KfW Research: Stimmung im Mittelstand steigt zum sechsten Mal in Folge",
-  "text": "- Mittelständisches Geschäftsklima verbessert sich über alle Branchen hinweg - Positive Entwicklung auch bei den Großunternehmen Die Stimmung im Mittelstand hat sich zum sechsten Mal in Folge …",
-  "url": "https://www.presseportal.de/pm/41193/6382120",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6380060",
   "art": "presse",
   "datum": "2026-10-29",
@@ -158,28 +167,28 @@
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 74 offene Stellen",
-  "text": "EY 65, PwC 52 folgen dahinter."
+  "text": "EY 65, PwC 53 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-18",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 88 · Wirtschaftsprüfung 58 · Steuern 41 · Banking 19 · Controlling & Finance 11"
+  "text": "Beratung 88 · Wirtschaftsprüfung 59 · Steuern 42 · Banking 18 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-18",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "München 122 · Frankfurt 122 · Düsseldorf 117 · Berlin 98 · Hamburg 86 · Stuttgart 80"
+  "text": "Frankfurt 123 · München 122 · Düsseldorf 117 · Berlin 99 · Hamburg 87 · Stuttgart 79"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-18",
   "art": "lage",
-  "titel": "129 Praktika und 88 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 404 Stellen in der App."
+  "titel": "127 Praktika und 91 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 405 Stellen in der App."
  },
  {
   "id": "neu-2026-11-17",
