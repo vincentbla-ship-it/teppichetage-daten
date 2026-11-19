@@ -1,18 +1,18 @@
 [
  {
-  "id": "neu-2026-11-18",
-  "datum": "2026-11-18",
+  "id": "neu-2026-11-19",
+  "datum": "2026-11-19",
   "art": "neu",
-  "titel": "136 neue Stellen heute",
-  "text": "PricewaterhouseCoopers GmbH WPG (119), PwC (9), LBBW (2), Trade Republic (1), Bosch (1), ING Deutschland (1)"
+  "titel": "10 neue Stellen heute",
+  "text": "PwC (9), Deloitte (1)"
  },
  {
-  "id": "neu-2026-11-18-PwC",
-  "datum": "2026-11-18",
+  "id": "neu-2026-11-19-PwC",
+  "datum": "2026-11-19",
   "art": "neu",
   "firma": "PwC",
   "titel": "PwC hat 9 neue Stellen ausgeschrieben",
-  "text": "Praktikum Sales & Business Development - Customer Growth & AI (w/m/d) · Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikum / Werkstudent Digital Business & Innovation (w/m/d)"
+  "text": "Praktikum Financial Services Consulting - Transformation (w/m/d) · Praktikum Financial Due Diligence (w/m/d) · Praktikum Energiewirtschaftliche Beratung (w/m/d)"
  },
  {
   "id": "presse-6393118",
@@ -163,32 +163,47 @@
  },
  {
   "id": "lage-firma",
-  "datum": "2026-11-18",
+  "datum": "2026-11-19",
   "art": "lage",
   "firma": "Deloitte",
-  "titel": "Deloitte sucht gerade am meisten: 74 offene Stellen",
-  "text": "EY 65, PwC 50 folgen dahinter."
+  "titel": "Deloitte sucht gerade am meisten: 75 offene Stellen",
+  "text": "EY 65, PwC 56 folgen dahinter."
  },
  {
   "id": "lage-bereich",
-  "datum": "2026-11-18",
+  "datum": "2026-11-19",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 85 · Wirtschaftsprüfung 60 · Steuern 41 · Banking 18 · Controlling & Finance 11"
+  "text": "Beratung 90 · Wirtschaftsprüfung 61 · Steuern 41 · Banking 19 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
-  "datum": "2026-11-18",
+  "datum": "2026-11-19",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 121 · München 118 · Düsseldorf 114 · Berlin 99 · Hamburg 86 · Stuttgart 76"
+  "text": "Frankfurt 127 · München 125 · Düsseldorf 120 · Berlin 103 · Hamburg 89 · Stuttgart 78"
  },
  {
   "id": "lage-art",
-  "datum": "2026-11-18",
+  "datum": "2026-11-19",
   "art": "lage",
-  "titel": "125 Praktika und 90 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 514 Stellen in der App."
+  "titel": "133 Praktika und 89 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 516 Stellen in der App."
+ },
+ {
+  "id": "neu-2026-11-18",
+  "datum": "2026-11-18",
+  "art": "neu",
+  "titel": "136 neue Stellen heute",
+  "text": "PricewaterhouseCoopers GmbH WPG (119), PwC (9), LBBW (2), Trade Republic (1), Bosch (1), ING Deutschland (1)"
+ },
+ {
+  "id": "neu-2026-11-18-PwC",
+  "datum": "2026-11-18",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 9 neue Stellen ausgeschrieben",
+  "text": "Praktikum Sales & Business Development - Customer Growth & AI (w/m/d) · Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikum / Werkstudent Digital Business & Innovation (w/m/d)"
  },
  {
   "id": "neu-2026-11-17",
