@@ -3,16 +3,43 @@
   "id": "neu-2026-11-19",
   "datum": "2026-11-19",
   "art": "neu",
-  "titel": "10 neue Stellen heute",
-  "text": "PwC (9), Deloitte (1)"
+  "titel": "18 neue Stellen heute",
+  "text": "PwC (12), Deloitte (2), Bosch (1), REWE Group (1), EY Tax GmbH Steuerberatungsgesellschaft (1), kanzleiKULTUR Rechtsanwaltsgesellschaft mbH (1)"
  },
  {
   "id": "neu-2026-11-19-PwC",
   "datum": "2026-11-19",
   "art": "neu",
   "firma": "PwC",
-  "titel": "PwC hat 9 neue Stellen ausgeschrieben",
-  "text": "Praktikum Financial Services Consulting - Transformation (w/m/d) · Praktikum Financial Due Diligence (w/m/d) · Praktikum Energiewirtschaftliche Beratung (w/m/d)"
+  "titel": "PwC hat 12 neue Stellen ausgeschrieben",
+  "text": "Werkstudent KI-Agenten & SAP (w/m/d) · Praktikum Financial Services Consulting - Transformation (w/m/d) · Praktikum Financial Due Diligence (w/m/d)"
+ },
+ {
+  "id": "presse-6393627",
+  "art": "presse",
+  "datum": "2026-11-19",
+  "titel": "KfW Research: Bauhauptgewerbe besonders stark von Fachkräftemangel betroffen",
+  "text": "- 31 Prozent der Unternehmen aus dem Bauhauptgewerbe klagen über fehlendes qualifiziertes Personal - Über alle Branchen hinweg melden 23 Prozent der Unternehmen einen Mangel von Fachkräften  …",
+  "url": "https://www.presseportal.de/pm/41193/6393627",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6393804",
+  "art": "presse",
+  "datum": "2026-11-19",
+  "titel": "TREVA 3 erfolgreich platziert: PEAC Solutions erweitert Refinanzierungsbasis in Deutschland und entwickelt ABS-Strategie weiter / KfW neuer Ankerinvestor im Rahmen des Deutschlandfonds",
+  "text": "Die PEAC (Germany) GmbH hat mit TREVA 3 ihre dritte öffentliche deutsche Asset-Backed-Securities-Transaktion erfolgreich am Kapitalmarkt platziert. Die unter der Bezeichnung TREVA 2026-1 aufgelegte …",
+  "url": "https://www.presseportal.de/pm/173886/6393804",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6393520",
+  "art": "presse",
+  "datum": "2026-11-19",
+  "titel": "13.236 Förderprogramme, nur vier von zehn nennen die maximale Fördersumme / Milliarden an Investitionsbedarf, doch Förderchancen bleiben ungenutzt. Der Förderreport zeigt, warum",
+  "text": "Wer in Deutschland Fördermittel für ein Vorhaben sucht, trifft auf eine Vielzahl von Programmen - doch wichtige Informationen für die Antragstellung fehlen häufig. Nur knapp vier von zehn …",
+  "url": "https://www.presseportal.de/pm/183950/6393520",
+  "quelle": "presseportal.de"
  },
  {
   "id": "presse-6393118",
@@ -133,15 +160,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6383885",
-  "art": "presse",
-  "datum": "2026-11-04",
-  "titel": "Drittes Quartal 2026: Starkes KfW-Förderjahr setzt sich fort - Anstieg der Neuzusagen im Kerngeschäft auf ein Rekordniveau von 87,9 Milliarden Euro (+ 43 Prozent)",
-  "text": "- Neuzusagen im inländischen Fördergeschäft mit 57,0 Milliarden Euro auf sehr hohem Niveau - Weiterhin großes Interesse an Mittelstandsförderung für Innovation, Klima, Umwelt sowie an Förderung …",
-  "url": "https://www.presseportal.de/pm/41193/6383885",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6380060",
   "art": "presse",
   "datum": "2026-10-29",
@@ -167,28 +185,28 @@
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 75 offene Stellen",
-  "text": "EY 65, PwC 56 folgen dahinter."
+  "text": "EY 65, PwC 53 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-19",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 90 · Wirtschaftsprüfung 61 · Steuern 41 · Banking 19 · Controlling & Finance 11"
+  "text": "Beratung 90 · Wirtschaftsprüfung 57 · Steuern 41 · Banking 19 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-19",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 127 · München 125 · Düsseldorf 120 · Berlin 103 · Hamburg 89 · Stuttgart 78"
+  "text": "Frankfurt 124 · München 123 · Düsseldorf 119 · Berlin 101 · Hamburg 87 · Stuttgart 79"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-19",
   "art": "lage",
-  "titel": "133 Praktika und 89 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 516 Stellen in der App."
+  "titel": "129 Praktika und 89 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 511 Stellen in der App."
  },
  {
   "id": "neu-2026-11-18",
