@@ -1,26 +1,10 @@
 [
  {
-  "id": "neu-2026-11-19",
-  "datum": "2026-11-19",
+  "id": "neu-2026-11-20",
+  "datum": "2026-11-20",
   "art": "neu",
-  "titel": "26 neue Stellen heute",
-  "text": "PwC (12), Bosch (3), PricewaterhouseCoopers GmbH WPG (3), Deloitte (3), REWE Group (1), Indaver Deutschland GmbH (1)"
- },
- {
-  "id": "neu-2026-11-19-PwC",
-  "datum": "2026-11-19",
-  "art": "neu",
-  "firma": "PwC",
-  "titel": "PwC hat 12 neue Stellen ausgeschrieben",
-  "text": "Werkstudent KI-Agenten & SAP (w/m/d) · Praktikum Financial Services Consulting - Transformation (w/m/d) · Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability"
- },
- {
-  "id": "neu-2026-11-19-Deloitte",
-  "datum": "2026-11-19",
-  "art": "neu",
-  "firma": "Deloitte",
-  "titel": "Deloitte hat 3 neue Stellen ausgeschrieben",
-  "text": "Praktikant Operations / Consulting (m/w/d) · Werkstudent Talent Sourcing (m/w/d) · Werkstudent Business Development - Automotive (m/w/d)"
+  "titel": "4 neue Stellen heute",
+  "text": "BCG (2), BMW AG (1), PwC (1)"
  },
  {
   "id": "presse-6393627",
@@ -95,15 +79,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6392610",
-  "art": "presse",
-  "datum": "2026-11-18",
-  "titel": "Bundesbankpräsident Nagel geht im ARD-Wirtschaftsmagazin \"Plusminus\" von Leitzinserhöhung der EZB aus: \"Möglicherweise müssen wir nochmal an der Zinsschraube drehen\"",
-  "text": "HR Hessischer Rundfunk: Frankfurt am Main (ots) - Angesichts der Aussicht auf eine höhere Inflation schließt Bundesbankpräsident Joachim Nagel weitere Zinserhöhungen der Europäischen Zentralbank (EZB) …",
-  "url": "https://www.presseportal.de/pm/177784/6392610",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6392135",
   "art": "presse",
   "datum": "2026-11-17",
@@ -150,15 +125,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6388945",
-  "art": "presse",
-  "datum": "2026-11-12",
-  "titel": "BVR-Präsidentin Kolak: \"Aus der konjunkturellen Erholung muss dauerhaftes Wachstum werden\"",
-  "text": "BVR Bundesverband der Deutschen Volksbanken und Raiffeisenbanken: Berlin (ots) - Der BVR teilt die zuversichtlichere Konjunktureinschätzung, die der Sachverständigenrat in seinem Jahresgutachten …",
-  "url": "https://www.presseportal.de/pm/40550/6388945",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6388075",
   "art": "presse",
   "datum": "2026-11-11",
@@ -189,7 +155,7 @@
  },
  {
   "id": "lage-firma",
-  "datum": "2026-11-19",
+  "datum": "2026-11-20",
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 76 offene Stellen",
@@ -197,24 +163,47 @@
  },
  {
   "id": "lage-bereich",
-  "datum": "2026-11-19",
+  "datum": "2026-11-20",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 86 · Wirtschaftsprüfung 59 · Steuern 40 · Banking 19 · Controlling & Finance 11"
+  "text": "Beratung 87 · Wirtschaftsprüfung 59 · Steuern 41 · Banking 19 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
-  "datum": "2026-11-19",
+  "datum": "2026-11-20",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 121 · München 121 · Düsseldorf 113 · Berlin 101 · Hamburg 86 · Stuttgart 78"
+  "text": "München 123 · Frankfurt 122 · Düsseldorf 115 · Berlin 102 · Hamburg 87 · Stuttgart 79"
  },
  {
   "id": "lage-art",
-  "datum": "2026-11-19",
+  "datum": "2026-11-20",
   "art": "lage",
-  "titel": "129 Praktika und 86 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 513 Stellen in der App."
+  "titel": "129 Praktika und 88 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 514 Stellen in der App."
+ },
+ {
+  "id": "neu-2026-11-19",
+  "datum": "2026-11-19",
+  "art": "neu",
+  "titel": "26 neue Stellen heute",
+  "text": "PwC (12), Bosch (3), PricewaterhouseCoopers GmbH WPG (3), Deloitte (3), REWE Group (1), Indaver Deutschland GmbH (1)"
+ },
+ {
+  "id": "neu-2026-11-19-PwC",
+  "datum": "2026-11-19",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 12 neue Stellen ausgeschrieben",
+  "text": "Werkstudent KI-Agenten & SAP (w/m/d) · Praktikum Financial Services Consulting - Transformation (w/m/d) · Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability"
+ },
+ {
+  "id": "neu-2026-11-19-Deloitte",
+  "datum": "2026-11-19",
+  "art": "neu",
+  "firma": "Deloitte",
+  "titel": "Deloitte hat 3 neue Stellen ausgeschrieben",
+  "text": "Praktikant Operations / Consulting (m/w/d) · Werkstudent Talent Sourcing (m/w/d) · Werkstudent Business Development - Automotive (m/w/d)"
  },
  {
   "id": "neu-2026-11-18",
