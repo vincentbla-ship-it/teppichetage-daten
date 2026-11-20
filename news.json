@@ -3,16 +3,16 @@
   "id": "neu-2026-11-20",
   "datum": "2026-11-20",
   "art": "neu",
-  "titel": "17 neue Stellen heute",
-  "text": "PwC (9), Bosch (3), BCG (2), BMW AG (1), Trade Republic (1), REWE Group (1)"
+  "titel": "33 neue Stellen heute",
+  "text": "PwC (14), LBBW (7), Bosch (3), BCG (2), Celonis (1), Scalable Capital (1)"
  },
  {
   "id": "neu-2026-11-20-PwC",
   "datum": "2026-11-20",
   "art": "neu",
   "firma": "PwC",
-  "titel": "PwC hat 9 neue Stellen ausgeschrieben",
-  "text": "Werkstudent Datenschutz & Digitalisierung (w/m/d) · Werkstudent - Technology Risk Management (w/m/d) · Werkstudent Digital Transformation (w/m/d)"
+  "titel": "PwC hat 14 neue Stellen ausgeschrieben",
+  "text": "Werkstudent Governance Risk & Compliance (w/m/d) · Werkstudent KI-Agenten & SAP (w/m/d) · Praktikum Sales & Business Development - Customer Growth & AI (w/m/d)"
  },
  {
   "id": "presse-6394330",
@@ -115,15 +115,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6390042",
-  "art": "presse",
-  "datum": "2026-11-13",
-  "titel": "KfW IPEX-Bank finanziert Windparks in der Türkei",
-  "text": "- Windparks Edirne und Balkaya mit einer Gesamtkapazität von 750 MW - Windpark Yellice mit einer Gesamtkapazität von 160 MW - Deutsche Exporte im Fokus: Lieferung und Installation von Windturbinen …",
-  "url": "https://www.presseportal.de/pm/69662/6390042",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6388075",
   "art": "presse",
   "datum": "2026-11-11",
@@ -157,29 +148,29 @@
   "datum": "2026-11-20",
   "art": "lage",
   "firma": "Deloitte",
-  "titel": "Deloitte sucht gerade am meisten: 76 offene Stellen",
-  "text": "EY 64, PwC 54 folgen dahinter."
+  "titel": "Deloitte sucht gerade am meisten: 75 offene Stellen",
+  "text": "EY 65, PwC 51 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-20",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 88 · Wirtschaftsprüfung 60 · Steuern 42 · Banking 19 · Controlling & Finance 10"
+  "text": "Beratung 86 · Wirtschaftsprüfung 61 · Steuern 39 · Banking 20 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-20",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 125 · München 122 · Düsseldorf 118 · Berlin 102 · Hamburg 87 · Stuttgart 79"
+  "text": "Frankfurt 124 · München 121 · Düsseldorf 120 · Berlin 99 · Hamburg 85 · Stuttgart 77"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-20",
   "art": "lage",
-  "titel": "128 Praktika und 91 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 511 Stellen in der App."
+  "titel": "128 Praktika und 89 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 516 Stellen in der App."
  },
  {
   "id": "neu-2026-11-19",
