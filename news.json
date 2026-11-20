@@ -3,8 +3,25 @@
   "id": "neu-2026-11-20",
   "datum": "2026-11-20",
   "art": "neu",
-  "titel": "4 neue Stellen heute",
-  "text": "BCG (2), BMW AG (1), PwC (1)"
+  "titel": "17 neue Stellen heute",
+  "text": "PwC (9), Bosch (3), BCG (2), BMW AG (1), Trade Republic (1), REWE Group (1)"
+ },
+ {
+  "id": "neu-2026-11-20-PwC",
+  "datum": "2026-11-20",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 9 neue Stellen ausgeschrieben",
+  "text": "Werkstudent Datenschutz & Digitalisierung (w/m/d) · Werkstudent - Technology Risk Management (w/m/d) · Werkstudent Digital Transformation (w/m/d)"
+ },
+ {
+  "id": "presse-6394330",
+  "art": "presse",
+  "datum": "2026-11-20",
+  "titel": "Januar bis September 2026: HARTMANN steigert erneut Umsatz und Ergebnis und erhöht Ergebnisprognose 2026, während 2027 von Gesundheitsreformen belastet wird",
+  "text": "- Organisches Umsatzwachstum von 3,2 %, Umsatzerlöse steigen auf 1.885,0 Mio. EUR - Bereinigtes EBITDA liegt bei 238,7 Mio. EUR und damit 42,9 Mio. EUR bzw. 21,9 % über Vorjahreswert; bereinigte …",
+  "url": "https://www.presseportal.de/pm/34248/6394330",
+  "quelle": "presseportal.de"
  },
  {
   "id": "presse-6393627",
@@ -58,24 +75,6 @@
   "titel": "BVR: Finanzbildungsstrategie muss vorhandene Stärken nutzen und Wirkung messbar machen",
   "text": "BVR Bundesverband der Deutschen Volksbanken und Raiffeisenbanken: Berlin (ots) - Der Bundesverband der Deutschen Volksbanken und Raiffeisenbanken (BVR) begrüßt die heute vom Bundeskabinett …",
   "url": "https://www.presseportal.de/pm/40550/6393162",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6392837",
-  "art": "presse",
-  "datum": "2026-11-18",
-  "titel": "Aktien des schwedischen Unternehmens Argo Defence Group an der Börse Stuttgart handelbar",
-  "text": "Zwei europäische Börsen der Boerse Stuttgart Group kombinieren ihre Services, um schwedischen Wachstumsunternehmen ein einzigartiges Angebot für ein duales Listing zu eröffnen. Die Aktien des …",
-  "url": "https://www.presseportal.de/pm/80210/6392837",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6392744",
-  "art": "presse",
-  "datum": "2026-11-18",
-  "titel": "Immobilienfinanzierung: Neugeschäft mit Plus im Vorjahres- und Minus im Vorquartalsvergleich",
-  "text": "Verband deutscher Pfandbriefbanken (vdp) e.V.: Berlin (ots) - - vdp-Mitgliedsinstitute vergeben von Januar bis September 2026 Immobiliendarlehen in Höhe von 116,9 Mrd. Euro In den ersten drei …",
-  "url": "https://www.presseportal.de/pm/29608/6392744",
   "quelle": "presseportal.de"
  },
  {
@@ -159,28 +158,28 @@
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 76 offene Stellen",
-  "text": "EY 65, PwC 50 folgen dahinter."
+  "text": "EY 64, PwC 54 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-20",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 87 · Wirtschaftsprüfung 59 · Steuern 41 · Banking 19 · Controlling & Finance 11"
+  "text": "Beratung 88 · Wirtschaftsprüfung 60 · Steuern 42 · Banking 19 · Controlling & Finance 10"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-20",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "München 123 · Frankfurt 122 · Düsseldorf 115 · Berlin 102 · Hamburg 87 · Stuttgart 79"
+  "text": "Frankfurt 125 · München 122 · Düsseldorf 118 · Berlin 102 · Hamburg 87 · Stuttgart 79"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-20",
   "art": "lage",
-  "titel": "129 Praktika und 88 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 514 Stellen in der App."
+  "titel": "128 Praktika und 91 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 511 Stellen in der App."
  },
  {
   "id": "neu-2026-11-19",
