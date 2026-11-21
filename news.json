@@ -1,18 +1,10 @@
 [
  {
-  "id": "neu-2026-11-20",
-  "datum": "2026-11-20",
+  "id": "neu-2026-11-21",
+  "datum": "2026-11-21",
   "art": "neu",
-  "titel": "33 neue Stellen heute",
-  "text": "PwC (14), LBBW (7), Bosch (3), BCG (2), Celonis (1), Scalable Capital (1)"
- },
- {
-  "id": "neu-2026-11-20-PwC",
-  "datum": "2026-11-20",
-  "art": "neu",
-  "firma": "PwC",
-  "titel": "PwC hat 14 neue Stellen ausgeschrieben",
-  "text": "Werkstudent Governance Risk & Compliance (w/m/d) · Werkstudent KI-Agenten & SAP (w/m/d) · Praktikum Sales & Business Development - Customer Growth & AI (w/m/d)"
+  "titel": "1 neue Stelle heute",
+  "text": "ProSiebenSat.1 Media SE (1)"
  },
  {
   "id": "presse-6394330",
@@ -145,32 +137,47 @@
  },
  {
   "id": "lage-firma",
-  "datum": "2026-11-20",
+  "datum": "2026-11-21",
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 75 offene Stellen",
-  "text": "EY 65, PwC 51 folgen dahinter."
+  "text": "EY 65, PwC 50 folgen dahinter."
  },
  {
   "id": "lage-bereich",
-  "datum": "2026-11-20",
+  "datum": "2026-11-21",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 86 · Wirtschaftsprüfung 61 · Steuern 39 · Banking 20 · Controlling & Finance 11"
+  "text": "Beratung 86 · Wirtschaftsprüfung 60 · Steuern 39 · Banking 20 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
-  "datum": "2026-11-20",
+  "datum": "2026-11-21",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 124 · München 121 · Düsseldorf 120 · Berlin 99 · Hamburg 85 · Stuttgart 77"
+  "text": "Frankfurt 123 · München 120 · Düsseldorf 119 · Berlin 98 · Hamburg 84 · Stuttgart 76"
  },
  {
   "id": "lage-art",
-  "datum": "2026-11-20",
+  "datum": "2026-11-21",
   "art": "lage",
-  "titel": "128 Praktika und 89 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 516 Stellen in der App."
+  "titel": "128 Praktika und 88 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 515 Stellen in der App."
+ },
+ {
+  "id": "neu-2026-11-20",
+  "datum": "2026-11-20",
+  "art": "neu",
+  "titel": "33 neue Stellen heute",
+  "text": "PwC (14), LBBW (7), Bosch (3), BCG (2), Celonis (1), Scalable Capital (1)"
+ },
+ {
+  "id": "neu-2026-11-20-PwC",
+  "datum": "2026-11-20",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 14 neue Stellen ausgeschrieben",
+  "text": "Werkstudent Governance Risk & Compliance (w/m/d) · Werkstudent KI-Agenten & SAP (w/m/d) · Praktikum Sales & Business Development - Customer Growth & AI (w/m/d)"
  },
  {
   "id": "neu-2026-11-19",
