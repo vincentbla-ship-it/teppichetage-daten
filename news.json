@@ -3,8 +3,8 @@
   "id": "neu-2026-11-21",
   "datum": "2026-11-21",
   "art": "neu",
-  "titel": "10 neue Stellen heute",
-  "text": "PwC (9), ProSiebenSat.1 Media SE (1)"
+  "titel": "11 neue Stellen heute",
+  "text": "PwC (9), ProSiebenSat.1 Media SE (1), BCG (1)"
  },
  {
   "id": "neu-2026-11-21-PwC",
@@ -156,21 +156,21 @@
   "datum": "2026-11-21",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 89 · Wirtschaftsprüfung 62 · Steuern 42 · Banking 20 · Controlling & Finance 11"
+  "text": "Beratung 88 · Wirtschaftsprüfung 62 · Steuern 42 · Banking 20 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-21",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 127 · München 126 · Düsseldorf 123 · Berlin 103 · Hamburg 90 · Stuttgart 80"
+  "text": "München 127 · Frankfurt 127 · Düsseldorf 123 · Berlin 104 · Hamburg 90 · Stuttgart 80"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-21",
   "art": "lage",
-  "titel": "131 Praktika und 93 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 523 Stellen in der App."
+  "titel": "130 Praktika und 93 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 522 Stellen in der App."
  },
  {
   "id": "neu-2026-11-20",
