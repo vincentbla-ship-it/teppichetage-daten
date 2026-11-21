@@ -3,8 +3,16 @@
   "id": "neu-2026-11-21",
   "datum": "2026-11-21",
   "art": "neu",
-  "titel": "1 neue Stelle heute",
-  "text": "ProSiebenSat.1 Media SE (1)"
+  "titel": "10 neue Stellen heute",
+  "text": "PwC (9), ProSiebenSat.1 Media SE (1)"
+ },
+ {
+  "id": "neu-2026-11-21-PwC",
+  "datum": "2026-11-21",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 9 neue Stellen ausgeschrieben",
+  "text": "Praktikum Financial Services Consulting - Transformation (w/m/d) · Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikum Financial Due Diligence (w/m/d)"
  },
  {
   "id": "presse-6394330",
@@ -141,28 +149,28 @@
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 75 offene Stellen",
-  "text": "EY 65, PwC 50 folgen dahinter."
+  "text": "EY 65, PwC 58 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-21",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 86 · Wirtschaftsprüfung 60 · Steuern 39 · Banking 20 · Controlling & Finance 11"
+  "text": "Beratung 89 · Wirtschaftsprüfung 62 · Steuern 42 · Banking 20 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-21",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 123 · München 120 · Düsseldorf 119 · Berlin 98 · Hamburg 84 · Stuttgart 76"
+  "text": "Frankfurt 127 · München 126 · Düsseldorf 123 · Berlin 103 · Hamburg 90 · Stuttgart 80"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-21",
   "art": "lage",
-  "titel": "128 Praktika und 88 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 515 Stellen in der App."
+  "titel": "131 Praktika und 93 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 523 Stellen in der App."
  },
  {
   "id": "neu-2026-11-20",
