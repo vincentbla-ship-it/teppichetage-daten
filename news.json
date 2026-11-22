@@ -3,8 +3,24 @@
   "id": "neu-2026-11-22",
   "datum": "2026-11-22",
   "art": "neu",
-  "titel": "2 neue Stellen heute",
-  "text": "BCG (1), PwC (1)"
+  "titel": "10 neue Stellen heute",
+  "text": "PwC (7), BCG (3)"
+ },
+ {
+  "id": "neu-2026-11-22-PwC",
+  "datum": "2026-11-22",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 7 neue Stellen ausgeschrieben",
+  "text": "Praktikum Sales & Business Development - Customer Growth & AI (w/m/d) · Praktikum Innovationsprojekte (w/m/d) · Praktikum Audit Financial Services (w/m/d)"
+ },
+ {
+  "id": "neu-2026-11-22-BCG",
+  "datum": "2026-11-22",
+  "art": "neu",
+  "firma": "BCG",
+  "titel": "BCG hat 3 neue Stellen ausgeschrieben",
+  "text": "Working Student—Alumni Relations (all genders) · Working Student - BCG Vantage, Industrial Goods · [Banco de Talentos] Forward Deployed AI Scientist Intern, Brazil - BCG X"
  },
  {
   "id": "presse-6394330",
@@ -141,28 +157,28 @@
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 75 offene Stellen",
-  "text": "EY 65, PwC 51 folgen dahinter."
+  "text": "EY 65, PwC 57 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-22",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 85 · Wirtschaftsprüfung 60 · Steuern 39 · Banking 20 · Controlling & Finance 11"
+  "text": "Beratung 90 · Wirtschaftsprüfung 61 · Steuern 41 · Banking 20 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-22",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 122 · München 118 · Düsseldorf 115 · Berlin 99 · Hamburg 85 · Stuttgart 79"
+  "text": "Frankfurt 126 · München 124 · Düsseldorf 121 · Berlin 102 · Hamburg 88 · Stuttgart 80"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-22",
   "art": "lage",
-  "titel": "128 Praktika und 87 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 513 Stellen in der App."
+  "titel": "132 Praktika und 91 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 521 Stellen in der App."
  },
  {
   "id": "neu-2026-11-21",
