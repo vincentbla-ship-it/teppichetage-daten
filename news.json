@@ -1,18 +1,10 @@
 [
  {
-  "id": "neu-2026-11-21",
-  "datum": "2026-11-21",
+  "id": "neu-2026-11-22",
+  "datum": "2026-11-22",
   "art": "neu",
-  "titel": "11 neue Stellen heute",
-  "text": "PwC (9), ProSiebenSat.1 Media SE (1), BCG (1)"
- },
- {
-  "id": "neu-2026-11-21-PwC",
-  "datum": "2026-11-21",
-  "art": "neu",
-  "firma": "PwC",
-  "titel": "PwC hat 9 neue Stellen ausgeschrieben",
-  "text": "Praktikum Financial Services Consulting - Transformation (w/m/d) · Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikum Financial Due Diligence (w/m/d)"
+  "titel": "2 neue Stellen heute",
+  "text": "BCG (1), PwC (1)"
  },
  {
   "id": "presse-6394330",
@@ -145,32 +137,47 @@
  },
  {
   "id": "lage-firma",
-  "datum": "2026-11-21",
+  "datum": "2026-11-22",
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 75 offene Stellen",
-  "text": "EY 65, PwC 58 folgen dahinter."
+  "text": "EY 65, PwC 51 folgen dahinter."
  },
  {
   "id": "lage-bereich",
-  "datum": "2026-11-21",
+  "datum": "2026-11-22",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 88 · Wirtschaftsprüfung 62 · Steuern 42 · Banking 20 · Controlling & Finance 11"
+  "text": "Beratung 85 · Wirtschaftsprüfung 60 · Steuern 39 · Banking 20 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
-  "datum": "2026-11-21",
+  "datum": "2026-11-22",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "München 127 · Frankfurt 127 · Düsseldorf 123 · Berlin 104 · Hamburg 90 · Stuttgart 80"
+  "text": "Frankfurt 122 · München 118 · Düsseldorf 115 · Berlin 99 · Hamburg 85 · Stuttgart 79"
  },
  {
   "id": "lage-art",
-  "datum": "2026-11-21",
+  "datum": "2026-11-22",
   "art": "lage",
-  "titel": "130 Praktika und 93 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 522 Stellen in der App."
+  "titel": "128 Praktika und 87 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 513 Stellen in der App."
+ },
+ {
+  "id": "neu-2026-11-21",
+  "datum": "2026-11-21",
+  "art": "neu",
+  "titel": "11 neue Stellen heute",
+  "text": "PwC (9), ProSiebenSat.1 Media SE (1), BCG (1)"
+ },
+ {
+  "id": "neu-2026-11-21-PwC",
+  "datum": "2026-11-21",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 9 neue Stellen ausgeschrieben",
+  "text": "Praktikum Financial Services Consulting - Transformation (w/m/d) · Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikum Financial Due Diligence (w/m/d)"
  },
  {
   "id": "neu-2026-11-20",
