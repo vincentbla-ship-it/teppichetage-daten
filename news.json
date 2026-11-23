@@ -3,24 +3,34 @@
   "id": "neu-2026-11-23",
   "datum": "2026-11-23",
   "art": "neu",
-  "titel": "13 neue Stellen heute",
-  "text": "BCG (6), PwC (4), Göken, Pollak & Partner Treuhandgesellschaft mbH (1), LBBW (1), Allianz (1)"
+  "titel": "23 neue Stellen heute",
+  "text": "BCG (8), PwC (7), PricewaterhouseCoopers GmbH WPG (1), Commerzbank AG (1), Orlen Deutschland (1), Göken, Pollak & Partner Treuhandgesellschaft mbH (1)"
  },
  {
   "id": "neu-2026-11-23-BCG",
   "datum": "2026-11-23",
   "art": "neu",
   "firma": "BCG",
-  "titel": "BCG hat 6 neue Stellen ausgeschrieben",
-  "text": "Working Student — Tax (all genders) · Working Student — Controlling (all genders) · Working Student – Employer Branding (Start Date: 01.02.2027)(all genders)"
+  "titel": "BCG hat 8 neue Stellen ausgeschrieben",
+  "text": "Working Student — Tax (all genders) · Working Student - Learning & Development · Working Student — Controlling (all genders)"
  },
  {
   "id": "neu-2026-11-23-PwC",
   "datum": "2026-11-23",
   "art": "neu",
   "firma": "PwC",
-  "titel": "PwC hat 4 neue Stellen ausgeschrieben",
-  "text": "Praktikum Innovationsprojekte (w/m/d) · Praktikum Energiewirtschaftliche Beratung (w/m/d) · Praktikum / Werkstudent Public Sector Consulting (w/m/d)"
+  "titel": "PwC hat 7 neue Stellen ausgeschrieben",
+  "text": "Praktikant Automotive Industry (w/m/d) · Praktikum Forensic Services FinCrime and Governance, Internal Audit & Compliance (w/m/d) · Praktikum Energiewirtschaftliche Beratung (w/m/d)"
+ },
+ {
+  "id": "presse-6396249",
+  "art": "presse",
+  "datum": "2026-11-23",
+  "titel": "Bezahlen als Service-Ökosystem: G+D liefert hochwertige Keramikkarten für das neue N26 Aura Premium-Bankkonto",
+  "text": "Im Wettbewerb um Bankkunden zählt zunehmend, wie Finanzdienstleister ihr Angebot über klassische Kontofunktionen hinaus gestalten. Die führende europäische Digitalbank N26 hat ihr neues Premium-Konto …",
+  "url": "https://www.presseportal.de/pm/32394/6396249",
+  "quelle": "presseportal.de",
+  "firma": "N26"
  },
  {
   "id": "presse-6395751",
@@ -29,6 +39,15 @@
   "titel": "KfW IPEX-Bank finanziert 50 neue elektrische Triebzüge für nordrhein-westfälischen Schienenpersonennahverkehr",
   "text": "- KfW IPEX-Bank steuert über 300 Mio. EUR-Darlehen für den Rhein-Ruhr-Express (RRX), Teilnetz B bei - Finanzierung von bis zu 50 neuen elektrischen Triebzügen (EMU) für verschiedene …",
   "url": "https://www.presseportal.de/pm/69662/6395751",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6396339",
+  "art": "presse",
+  "datum": "2026-11-23",
+  "titel": "Deutlicher Sprung bei KI-Erträgen: Jedes dritte deutsche Unternehmen profitiert / Heimische Wirtschaft mit mehr ROI als im globalen Schnitt zeigt Studie von Dun & Bradstreet mit 10.000 Unternehmen",
+  "text": "Dun & Bradstreet Deutschland GmbH: Frankfurt am Main (ots) - Jedes dritte Unternehmen in Deutschland (33 Prozent) erzielt inzwischen einen breiten Return on Investment (ROI) aus Künstlicher …",
+  "url": "https://www.presseportal.de/pm/168910/6396339",
   "quelle": "presseportal.de"
  },
  {
@@ -68,15 +87,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6393804",
-  "art": "presse",
-  "datum": "2026-11-19",
-  "titel": "TREVA 3 erfolgreich platziert: PEAC Solutions erweitert Refinanzierungsbasis in Deutschland und entwickelt ABS-Strategie weiter / KfW neuer Ankerinvestor im Rahmen des Deutschlandfonds",
-  "text": "Die PEAC (Germany) GmbH hat mit TREVA 3 ihre dritte öffentliche deutsche Asset-Backed-Securities-Transaktion erfolgreich am Kapitalmarkt platziert. Die unter der Bezeichnung TREVA 2026-1 aufgelegte …",
-  "url": "https://www.presseportal.de/pm/173886/6393804",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6393118",
   "art": "presse",
   "datum": "2026-11-18",
@@ -103,15 +113,6 @@
   "url": "https://www.presseportal.de/pm/7840/6392135",
   "quelle": "presseportal.de",
   "firma": "Deutsche Bank"
- },
- {
-  "id": "presse-6392038",
-  "art": "presse",
-  "datum": "2026-11-17",
-  "titel": "BVR: Gründungen ziehen wieder an / KI sorgt für kräftigen Schub",
-  "text": "BVR Bundesverband der Deutschen Volksbanken und Raiffeisenbanken: Berlin (ots) - Das Gründungsgeschehen in Deutschland gewinnt wieder an Dynamik. Nach Prognosen des Bundesverbandes der Deutschen …",
-  "url": "https://www.presseportal.de/pm/40550/6392038",
-  "quelle": "presseportal.de"
  },
  {
   "id": "presse-6390996",
@@ -156,7 +157,7 @@
   "datum": "2026-11-23",
   "art": "lage",
   "firma": "Deloitte",
-  "titel": "Deloitte sucht gerade am meisten: 75 offene Stellen",
+  "titel": "Deloitte sucht gerade am meisten: 71 offene Stellen",
   "text": "EY 65, PwC 55 folgen dahinter."
  },
  {
@@ -164,20 +165,20 @@
   "datum": "2026-11-23",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 91 · Wirtschaftsprüfung 60 · Steuern 42 · Banking 19 · Controlling & Finance 12"
+  "text": "Beratung 91 · Wirtschaftsprüfung 59 · Steuern 42 · Banking 18 · Controlling & Finance 12"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-23",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "München 126 · Frankfurt 124 · Düsseldorf 121 · Berlin 102 · Hamburg 87 · Stuttgart 77"
+  "text": "München 124 · Frankfurt 121 · Düsseldorf 120 · Berlin 98 · Hamburg 85 · Stuttgart 77"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-23",
   "art": "lage",
-  "titel": "130 Praktika und 94 Werkstudentenjobs bei Top-Arbeitgebern",
+  "titel": "128 Praktika und 94 Werkstudentenjobs bei Top-Arbeitgebern",
   "text": "Insgesamt 520 Stellen in der App."
  },
  {
