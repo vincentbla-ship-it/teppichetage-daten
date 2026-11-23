@@ -3,8 +3,8 @@
   "id": "neu-2026-11-23",
   "datum": "2026-11-23",
   "art": "neu",
-  "titel": "10 neue Stellen heute",
-  "text": "BCG (6), PwC (3), LBBW (1)"
+  "titel": "13 neue Stellen heute",
+  "text": "BCG (6), PwC (4), Göken, Pollak & Partner Treuhandgesellschaft mbH (1), LBBW (1), Allianz (1)"
  },
  {
   "id": "neu-2026-11-23-BCG",
@@ -19,8 +19,35 @@
   "datum": "2026-11-23",
   "art": "neu",
   "firma": "PwC",
-  "titel": "PwC hat 3 neue Stellen ausgeschrieben",
-  "text": "Praktikum Energiewirtschaftliche Beratung (w/m/d) · Praktikum / Werkstudent Public Sector Consulting (w/m/d) · Praktikum / Werkstudent Tax Financial Services (w/m/d)"
+  "titel": "PwC hat 4 neue Stellen ausgeschrieben",
+  "text": "Praktikum Innovationsprojekte (w/m/d) · Praktikum Energiewirtschaftliche Beratung (w/m/d) · Praktikum / Werkstudent Public Sector Consulting (w/m/d)"
+ },
+ {
+  "id": "presse-6395751",
+  "art": "presse",
+  "datum": "2026-11-23",
+  "titel": "KfW IPEX-Bank finanziert 50 neue elektrische Triebzüge für nordrhein-westfälischen Schienenpersonennahverkehr",
+  "text": "- KfW IPEX-Bank steuert über 300 Mio. EUR-Darlehen für den Rhein-Ruhr-Express (RRX), Teilnetz B bei - Finanzierung von bis zu 50 neuen elektrischen Triebzügen (EMU) für verschiedene …",
+  "url": "https://www.presseportal.de/pm/69662/6395751",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6395853",
+  "art": "presse",
+  "datum": "2026-11-23",
+  "titel": "NOWEDA knackt 11-Milliarden-Umsatzmarke",
+  "text": "Im Rahmen der 88. Generalversammlung am 21. November in Essen informierten Aufsichtsrat und Vorstand der NOWEDA Apothekergenossenschaft über die Geschäftsentwicklung im Geschäftsjahr 2025/2026. Trotz …",
+  "url": "https://www.presseportal.de/pm/65940/6395853",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6395834",
+  "art": "presse",
+  "datum": "2026-11-23",
+  "titel": "ECOVACS Robotics steigert Umsatz im ersten Halbjahr 2026 um 19,2 Prozent im Vorjahresvergleich",
+  "text": "Umsatz des Konzerns erreicht rund 1,32 Milliarden Euro; Nettogewinn wächst um 27,4 Prozent - internationale Märkte tragen 49 Prozent zum Markenumsatz bei. Eine wichtige Rolle spielt dabei der …",
+  "url": "https://www.presseportal.de/pm/114369/6395834",
+  "quelle": "presseportal.de"
  },
  {
   "id": "presse-6394330",
@@ -50,15 +77,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6393520",
-  "art": "presse",
-  "datum": "2026-11-19",
-  "titel": "13.236 Förderprogramme, nur vier von zehn nennen die maximale Fördersumme / Milliarden an Investitionsbedarf, doch Förderchancen bleiben ungenutzt. Der Förderreport zeigt, warum",
-  "text": "Wer in Deutschland Fördermittel für ein Vorhaben sucht, trifft auf eine Vielzahl von Programmen - doch wichtige Informationen für die Antragstellung fehlen häufig. Nur knapp vier von zehn …",
-  "url": "https://www.presseportal.de/pm/183950/6393520",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6393118",
   "art": "presse",
   "datum": "2026-11-18",
@@ -74,15 +92,6 @@
   "titel": "KfW fördert erstes Geothermieprojekt unter dem Deutschlandfonds",
   "text": "- KfW-Darlehen mit Fündigkeitsversicherung finanziert Bohrungen in Bayern - Kooperation von KfW, Bundeswirtschaftsministerium und Munich Re - Sieben weitere Projekte in Prüfung Die KfW fördert …",
   "url": "https://www.presseportal.de/pm/41193/6392864",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6393162",
-  "art": "presse",
-  "datum": "2026-11-18",
-  "titel": "BVR: Finanzbildungsstrategie muss vorhandene Stärken nutzen und Wirkung messbar machen",
-  "text": "BVR Bundesverband der Deutschen Volksbanken und Raiffeisenbanken: Berlin (ots) - Der Bundesverband der Deutschen Volksbanken und Raiffeisenbanken (BVR) begrüßt die heute vom Bundeskabinett …",
-  "url": "https://www.presseportal.de/pm/40550/6393162",
   "quelle": "presseportal.de"
  },
  {
@@ -111,15 +120,6 @@
   "titel": "Die KfW auf der Weltklimakonferenz COP31 in Antalya: Abschluss von zehn Vereinbarungen in Höhe von rund zwei Milliarden Euro",
   "text": "- KfW-Chef Wintels: KfW bleibt treibende Kraft beim Umwelt- und Klimaschutz - 2026 und 2027 jeweils 50 Milliarden Euro - Verstärkte Mobilisierung von Privatkapital für die Klimafinanzierung von …",
   "url": "https://www.presseportal.de/pm/41193/6390996",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6390970",
-  "art": "presse",
-  "datum": "2026-11-16",
-  "titel": "SQURE.IO: Europäischer Business-Messenger für souveräne Unternehmenskommunikation",
-  "text": "Ende-zu-Ende-verschlüsselt, DSGVO-konform, wahlweise in der EU-Cloud oder in der eigenen Infrastruktur: SQURE.IO ist der tägliche und notfallsichere Business-Messenger SQURE.IO von Herton Digital ist …",
-  "url": "https://www.presseportal.de/pm/183934/6390970",
   "quelle": "presseportal.de"
  },
  {
@@ -157,28 +157,28 @@
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 75 offene Stellen",
-  "text": "EY 65, PwC 58 folgen dahinter."
+  "text": "EY 65, PwC 55 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-23",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 91 · Wirtschaftsprüfung 61 · Steuern 42 · Banking 20 · Controlling & Finance 12"
+  "text": "Beratung 91 · Wirtschaftsprüfung 60 · Steuern 42 · Banking 19 · Controlling & Finance 12"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-23",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "München 128 · Frankfurt 127 · Düsseldorf 124 · Berlin 104 · Hamburg 89 · Stuttgart 79"
+  "text": "München 126 · Frankfurt 124 · Düsseldorf 121 · Berlin 102 · Hamburg 87 · Stuttgart 77"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-23",
   "art": "lage",
-  "titel": "131 Praktika und 95 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 525 Stellen in der App."
+  "titel": "130 Praktika und 94 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 520 Stellen in der App."
  },
  {
   "id": "neu-2026-11-22",
