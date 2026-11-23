@@ -1,26 +1,26 @@
 [
  {
-  "id": "neu-2026-11-22",
-  "datum": "2026-11-22",
+  "id": "neu-2026-11-23",
+  "datum": "2026-11-23",
   "art": "neu",
-  "titel": "11 neue Stellen heute",
-  "text": "PwC (8), BCG (3)"
+  "titel": "10 neue Stellen heute",
+  "text": "BCG (6), PwC (3), LBBW (1)"
  },
  {
-  "id": "neu-2026-11-22-PwC",
-  "datum": "2026-11-22",
-  "art": "neu",
-  "firma": "PwC",
-  "titel": "PwC hat 8 neue Stellen ausgeschrieben",
-  "text": "Praktikum Sales & Business Development - Customer Growth & AI (w/m/d) · Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikum Innovationsprojekte (w/m/d)"
- },
- {
-  "id": "neu-2026-11-22-BCG",
-  "datum": "2026-11-22",
+  "id": "neu-2026-11-23-BCG",
+  "datum": "2026-11-23",
   "art": "neu",
   "firma": "BCG",
-  "titel": "BCG hat 3 neue Stellen ausgeschrieben",
-  "text": "Working Student—Alumni Relations (all genders) · Working Student - BCG Vantage, Industrial Goods · [Banco de Talentos] Forward Deployed AI Scientist Intern, Brazil - BCG X"
+  "titel": "BCG hat 6 neue Stellen ausgeschrieben",
+  "text": "Working Student — Tax (all genders) · Working Student — Controlling (all genders) · Working Student – Employer Branding (Start Date: 01.02.2027)(all genders)"
+ },
+ {
+  "id": "neu-2026-11-23-PwC",
+  "datum": "2026-11-23",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 3 neue Stellen ausgeschrieben",
+  "text": "Praktikum Energiewirtschaftliche Beratung (w/m/d) · Praktikum / Werkstudent Public Sector Consulting (w/m/d) · Praktikum / Werkstudent Tax Financial Services (w/m/d)"
  },
  {
   "id": "presse-6394330",
@@ -153,7 +153,7 @@
  },
  {
   "id": "lage-firma",
-  "datum": "2026-11-22",
+  "datum": "2026-11-23",
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 75 offene Stellen",
@@ -161,24 +161,47 @@
  },
  {
   "id": "lage-bereich",
-  "datum": "2026-11-22",
+  "datum": "2026-11-23",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 89 · Wirtschaftsprüfung 62 · Steuern 41 · Banking 20 · Controlling & Finance 11"
+  "text": "Beratung 91 · Wirtschaftsprüfung 61 · Steuern 42 · Banking 20 · Controlling & Finance 12"
  },
  {
   "id": "lage-stadt",
-  "datum": "2026-11-22",
+  "datum": "2026-11-23",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 126 · München 124 · Düsseldorf 122 · Berlin 102 · Hamburg 89 · Stuttgart 81"
+  "text": "München 128 · Frankfurt 127 · Düsseldorf 124 · Berlin 104 · Hamburg 89 · Stuttgart 79"
  },
  {
   "id": "lage-art",
-  "datum": "2026-11-22",
+  "datum": "2026-11-23",
   "art": "lage",
-  "titel": "131 Praktika und 92 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 521 Stellen in der App."
+  "titel": "131 Praktika und 95 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 525 Stellen in der App."
+ },
+ {
+  "id": "neu-2026-11-22",
+  "datum": "2026-11-22",
+  "art": "neu",
+  "titel": "11 neue Stellen heute",
+  "text": "PwC (8), BCG (3)"
+ },
+ {
+  "id": "neu-2026-11-22-PwC",
+  "datum": "2026-11-22",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 8 neue Stellen ausgeschrieben",
+  "text": "Praktikum Sales & Business Development - Customer Growth & AI (w/m/d) · Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikum Innovationsprojekte (w/m/d)"
+ },
+ {
+  "id": "neu-2026-11-22-BCG",
+  "datum": "2026-11-22",
+  "art": "neu",
+  "firma": "BCG",
+  "titel": "BCG hat 3 neue Stellen ausgeschrieben",
+  "text": "Working Student—Alumni Relations (all genders) · Working Student - BCG Vantage, Industrial Goods · [Banco de Talentos] Forward Deployed AI Scientist Intern, Brazil - BCG X"
  },
  {
   "id": "neu-2026-11-21",
@@ -308,12 +331,5 @@
   "art": "neu",
   "titel": "1 neue Stelle seit dem letzten Abruf",
   "text": "PwC (1)"
- },
- {
-  "id": "neu-2026-11-14",
-  "datum": "2026-11-14",
-  "art": "neu",
-  "titel": "2 neue Stellen seit dem letzten Abruf",
-  "text": "PwC (2)"
  }
 ]
