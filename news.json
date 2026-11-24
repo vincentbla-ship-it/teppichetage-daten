@@ -3,8 +3,52 @@
   "id": "neu-2026-11-24",
   "datum": "2026-11-24",
   "art": "neu",
-  "titel": "3 neue Stellen heute",
-  "text": "PwC (2), Vodafone GmbH (1)"
+  "titel": "9 neue Stellen heute",
+  "text": "PwC (6), Vodafone GmbH (1), EY (1), Deloitte (1)"
+ },
+ {
+  "id": "neu-2026-11-24-PwC",
+  "datum": "2026-11-24",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 6 neue Stellen ausgeschrieben",
+  "text": "Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikum Innovationsprojekte (w/m/d) · Praktikum Energiewirtschaftliche Beratung (w/m/d)"
+ },
+ {
+  "id": "presse-6396855",
+  "art": "presse",
+  "datum": "2026-11-24",
+  "titel": "Höherer Auftragseingang und operativ positives Q4-Ergebnis stimmen vorsichtig optimistisch für Geschäftsjahr 2026/2027 / Bertrandt veröffentlicht vorläufige Geschäftsjahreszahlen",
+  "text": "Bertrandt blickt erneut auf ein herausforderndes Geschäftsjahr zurück. Die Gesamtleistung ging im Rahmen der zuletzt gültigen Prognose moderat um ca. 9 Prozent auf 893 Mio. Euro zurück. Das EBIT fiel …",
+  "url": "https://www.presseportal.de/pm/14016/6396855",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6396712",
+  "art": "presse",
+  "datum": "2026-11-24",
+  "titel": "10,5 Millionen Euro für Playbook: Zentrale Steuerung von KI in Pharmaunternehmen",
+  "text": "- Heal Capital führt die jüngste Finanzierungsrunde über acht Millionen Euro an. Bayern Kapital und Bestandsinvestor Capnamic beteiligen sich ebenfalls. Bereits 2025 hatte Playbook 2,5 Millionen Euro …",
+  "url": "https://www.presseportal.de/pm/183987/6396712",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6396657",
+  "art": "presse",
+  "datum": "2026-11-24",
+  "titel": "eventfirst will Firmenveranstaltungen mit KI grundlegend verändern",
+  "text": "Das Berliner Technologieunternehmen hat 4,5 Millionen Euro Pre-Seed-Kapital eingesammelt. Zu den Investoren zählen General Catalyst und GetYourGuide-Mitgründer Johannes Reck. Die Gründer Julian …",
+  "url": "https://www.presseportal.de/pm/183984/6396657",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6396537",
+  "art": "presse",
+  "datum": "2026-11-24",
+  "titel": "GLS Bank finanziert einfaches Bauen in Bayern / Großes kleines Haus in München ist Gebäudetyp-E-Pilotprojekt und jetzt bezugsfertig",
+  "text": "Bezahlbarer Wohnraum ist im Ballungszentrum München rar. Deshalb hat die GLS Bank genau dort gerne eine Finanzierung übernommen: die der Genossenschaft \"Das große kleine Haus\". Das Besondere daran: Es …",
+  "url": "https://www.presseportal.de/pm/64894/6396537",
+  "quelle": "presseportal.de"
  },
  {
   "id": "presse-6396249",
@@ -53,15 +97,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6394330",
-  "art": "presse",
-  "datum": "2026-11-20",
-  "titel": "Januar bis September 2026: HARTMANN steigert erneut Umsatz und Ergebnis und erhöht Ergebnisprognose 2026, während 2027 von Gesundheitsreformen belastet wird",
-  "text": "- Organisches Umsatzwachstum von 3,2 %, Umsatzerlöse steigen auf 1.885,0 Mio. EUR - Bereinigtes EBITDA liegt bei 238,7 Mio. EUR und damit 42,9 Mio. EUR bzw. 21,9 % über Vorjahreswert; bereinigte …",
-  "url": "https://www.presseportal.de/pm/34248/6394330",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6393627",
   "art": "presse",
   "datum": "2026-11-19",
@@ -87,16 +122,6 @@
   "text": "- KfW-Darlehen mit Fündigkeitsversicherung finanziert Bohrungen in Bayern - Kooperation von KfW, Bundeswirtschaftsministerium und Munich Re - Sieben weitere Projekte in Prüfung Die KfW fördert …",
   "url": "https://www.presseportal.de/pm/41193/6392864",
   "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6392135",
-  "art": "presse",
-  "datum": "2026-11-17",
-  "titel": "\"Inside Deutsche Bank\": \"frontal\"-Doku im ZDF zum größten Banken-Leak",
-  "text": "Mehr als 15 Millionen interne Dokumente, darunter mehr als neun Millionen E-Mails sowie Berichte, Präsentationen und Kalendereinträge, geben Einblick in den Umgang der Deutschen Bank mit umstrittenen …",
-  "url": "https://www.presseportal.de/pm/7840/6392135",
-  "quelle": "presseportal.de",
-  "firma": "Deutsche Bank"
  },
  {
   "id": "presse-6390996",
@@ -142,28 +167,28 @@
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 71 offene Stellen",
-  "text": "EY 65, PwC 55 folgen dahinter."
+  "text": "EY 66, PwC 56 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-24",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 87 · Wirtschaftsprüfung 59 · Steuern 41 · Banking 18 · Controlling & Finance 11"
+  "text": "Beratung 89 · Wirtschaftsprüfung 59 · Steuern 41 · Banking 18 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-24",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "München 120 · Frankfurt 120 · Düsseldorf 117 · Berlin 99 · Hamburg 84 · Stuttgart 78"
+  "text": "München 122 · Frankfurt 122 · Düsseldorf 117 · Berlin 102 · Hamburg 88 · Stuttgart 78"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-24",
   "art": "lage",
-  "titel": "125 Praktika und 91 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 514 Stellen in der App."
+  "titel": "125 Praktika und 93 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 511 Stellen in der App."
  },
  {
   "id": "neu-2026-11-23",
