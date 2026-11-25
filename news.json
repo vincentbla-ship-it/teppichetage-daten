@@ -3,8 +3,8 @@
   "id": "neu-2026-11-25",
   "datum": "2026-11-25",
   "art": "neu",
-  "titel": "9 neue Stellen heute",
-  "text": "PwC (5), SumUp (1), SHBB Steuerberatungsges. mbH Preetz (1), Forvis Mazars (1), Deloitte (1)"
+  "titel": "11 neue Stellen heute",
+  "text": "PwC (5), Forvis Mazars (2), Roland Berger (1), SumUp (1), SHBB Steuerberatungsges. mbH Preetz (1), Deloitte (1)"
  },
  {
   "id": "neu-2026-11-25-PwC",
@@ -13,6 +13,15 @@
   "firma": "PwC",
   "titel": "PwC hat 5 neue Stellen ausgeschrieben",
   "text": "Praktikum / Werkstudent Finance & Treasury Management (w/m/d) · Praktikum energiewirtschaftliche Prüfung und Beratung (w/m/d) · Praktikum / Werkstudent IT-Beratung Public Sector (w/m/d)"
+ },
+ {
+  "id": "presse-6397566",
+  "art": "presse",
+  "datum": "2026-11-25",
+  "titel": "KfW Research erwartet für Deutschland eine anhaltend hohe Konjunkturdynamik im kommenden Jahr",
+  "text": "- Ökonomen der KfW rechnen für 2026 mit einem preisbereinigten Wachstum von 1,3 Prozent - Für das kommende Jahr bleibt die Prognose bei plus 1,5 Prozent - KfW Research hebt Inflationserwartungen für …",
+  "url": "https://www.presseportal.de/pm/41193/6397566",
+  "quelle": "presseportal.de"
  },
  {
   "id": "presse-6396855",
@@ -133,15 +142,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6388075",
-  "art": "presse",
-  "datum": "2026-11-11",
-  "titel": "Klimatechnologien als Wachstumstreiber des Welthandels: Große Exportchancen für Deutschland",
-  "text": "- Mit 11,4 Prozent und 2,8 Billionen US-Dollar: Umwelt- und Klimatechnologien gewinnen an Gewicht im Welthandel - Wachstum von durchschnittlich 6,3 Prozent pro Jahr seit 2017 - Umfangreiche …",
-  "url": "https://www.presseportal.de/pm/41193/6388075",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6380060",
   "art": "presse",
   "datum": "2026-10-29",
@@ -167,7 +167,7 @@
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 72 offene Stellen",
-  "text": "EY 67, PwC 55 folgen dahinter."
+  "text": "EY 67, PwC 54 folgen dahinter."
  },
  {
   "id": "lage-bereich",
@@ -181,14 +181,14 @@
   "datum": "2026-11-25",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "München 122 · Frankfurt 122 · Düsseldorf 120 · Berlin 102 · Hamburg 86 · Stuttgart 77"
+  "text": "München 123 · Frankfurt 121 · Düsseldorf 120 · Berlin 102 · Hamburg 85 · Stuttgart 77"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-25",
   "art": "lage",
   "titel": "127 Praktika und 91 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 512 Stellen in der App."
+  "text": "Insgesamt 510 Stellen in der App."
  },
  {
   "id": "neu-2026-11-24",
