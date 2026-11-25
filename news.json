@@ -1,18 +1,18 @@
 [
  {
-  "id": "neu-2026-11-24",
-  "datum": "2026-11-24",
+  "id": "neu-2026-11-25",
+  "datum": "2026-11-25",
   "art": "neu",
-  "titel": "14 neue Stellen heute",
-  "text": "PwC (8), EY (2), Deloitte (2), Trade Republic (1), Vodafone GmbH (1)"
+  "titel": "9 neue Stellen heute",
+  "text": "PwC (5), SumUp (1), SHBB Steuerberatungsges. mbH Preetz (1), Forvis Mazars (1), Deloitte (1)"
  },
  {
-  "id": "neu-2026-11-24-PwC",
-  "datum": "2026-11-24",
+  "id": "neu-2026-11-25-PwC",
+  "datum": "2026-11-25",
   "art": "neu",
   "firma": "PwC",
-  "titel": "PwC hat 8 neue Stellen ausgeschrieben",
-  "text": "Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikant Automotive Industry (w/m/d) · Praktikum Governance, Internal Audit & Compliance Consulting (w/m/d)"
+  "titel": "PwC hat 5 neue Stellen ausgeschrieben",
+  "text": "Praktikum / Werkstudent Finance & Treasury Management (w/m/d) · Praktikum energiewirtschaftliche Prüfung und Beratung (w/m/d) · Praktikum / Werkstudent IT-Beratung Public Sector (w/m/d)"
  },
  {
   "id": "presse-6396855",
@@ -163,32 +163,47 @@
  },
  {
   "id": "lage-firma",
-  "datum": "2026-11-24",
+  "datum": "2026-11-25",
   "art": "lage",
   "firma": "Deloitte",
-  "titel": "Deloitte sucht gerade am meisten: 71 offene Stellen",
-  "text": "EY 67, PwC 54 folgen dahinter."
+  "titel": "Deloitte sucht gerade am meisten: 72 offene Stellen",
+  "text": "EY 67, PwC 55 folgen dahinter."
  },
  {
   "id": "lage-bereich",
-  "datum": "2026-11-24",
+  "datum": "2026-11-25",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 87 · Wirtschaftsprüfung 62 · Steuern 40 · Banking 18 · Controlling & Finance 10"
+  "text": "Beratung 88 · Wirtschaftsprüfung 60 · Steuern 41 · Banking 18 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
-  "datum": "2026-11-24",
+  "datum": "2026-11-25",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 120 · München 118 · Düsseldorf 116 · Berlin 99 · Hamburg 83 · Stuttgart 75"
+  "text": "München 122 · Frankfurt 122 · Düsseldorf 120 · Berlin 102 · Hamburg 86 · Stuttgart 77"
  },
  {
   "id": "lage-art",
-  "datum": "2026-11-24",
+  "datum": "2026-11-25",
   "art": "lage",
-  "titel": "127 Praktika und 90 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 509 Stellen in der App."
+  "titel": "127 Praktika und 91 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 512 Stellen in der App."
+ },
+ {
+  "id": "neu-2026-11-24",
+  "datum": "2026-11-24",
+  "art": "neu",
+  "titel": "14 neue Stellen heute",
+  "text": "PwC (8), EY (2), Deloitte (2), Trade Republic (1), Vodafone GmbH (1)"
+ },
+ {
+  "id": "neu-2026-11-24-PwC",
+  "datum": "2026-11-24",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 8 neue Stellen ausgeschrieben",
+  "text": "Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikant Automotive Industry (w/m/d) · Praktikum Governance, Internal Audit & Compliance Consulting (w/m/d)"
  },
  {
   "id": "neu-2026-11-23",
@@ -326,20 +341,5 @@
   "firma": "BCG",
   "titel": "BCG hat 4 neue Stellen ausgeschrieben",
   "text": "Working Student—Alumni Relations (all genders) · Working Student - BCG Vantage, Industrial Goods · [Banco de Talentos] Forward Deployed AI Scientist Intern, Brazil - BCG X"
- },
- {
-  "id": "neu-2026-11-16",
-  "datum": "2026-11-16",
-  "art": "neu",
-  "titel": "34 neue Stellen heute",
-  "text": "PwC (15), Bosch (3), EY Tax GmbH Steuerberatungsgesellschaft (3), EY (3), Allianz (2), Upvest (1)"
- },
- {
-  "id": "neu-2026-11-16-PwC",
-  "datum": "2026-11-16",
-  "art": "neu",
-  "firma": "PwC",
-  "titel": "PwC hat 15 neue Stellen ausgeschrieben",
-  "text": "Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability · Praktikant Automotive Industry (w/m/d) · Praktikum Forensic Investigations, Crisis & Corporate Security (w/m/d)"
  }
 ]
