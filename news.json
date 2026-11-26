@@ -1,18 +1,10 @@
 [
  {
-  "id": "neu-2026-11-25",
-  "datum": "2026-11-25",
+  "id": "neu-2026-11-26",
+  "datum": "2026-11-26",
   "art": "neu",
-  "titel": "23 neue Stellen heute",
-  "text": "PwC (13), Forvis Mazars (2), Upvest (1), Roland Berger (1), Bosch (1), CLAAS Saulgau GmbH (1)"
- },
- {
-  "id": "neu-2026-11-25-PwC",
-  "datum": "2026-11-25",
-  "art": "neu",
-  "firma": "PwC",
-  "titel": "PwC hat 13 neue Stellen ausgeschrieben",
-  "text": "Praktikant / Werkstudent Cloud Transformation (w/m/d) · Praktikum Agentic Venture Scouting & Sales (w/m/d) · Praktikum Venture Analyst & Development (w/m/d)"
+  "titel": "2 neue Stellen heute",
+  "text": "PwC (1), Robert Bosch GmbH (1)"
  },
  {
   "id": "presse-6397566",
@@ -163,32 +155,47 @@
  },
  {
   "id": "lage-firma",
-  "datum": "2026-11-25",
+  "datum": "2026-11-26",
   "art": "lage",
   "firma": "Deloitte",
   "titel": "Deloitte sucht gerade am meisten: 72 offene Stellen",
-  "text": "EY 67, PwC 57 folgen dahinter."
+  "text": "EY 67, PwC 56 folgen dahinter."
  },
  {
   "id": "lage-bereich",
-  "datum": "2026-11-25",
+  "datum": "2026-11-26",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 87 · Wirtschaftsprüfung 63 · Steuern 42 · Banking 18 · Controlling & Finance 11"
+  "text": "Beratung 87 · Wirtschaftsprüfung 62 · Steuern 42 · Banking 18 · Controlling & Finance 11"
  },
  {
   "id": "lage-stadt",
-  "datum": "2026-11-25",
+  "datum": "2026-11-26",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "München 122 · Frankfurt 122 · Düsseldorf 117 · Berlin 103 · Hamburg 88 · Stuttgart 78"
+  "text": "München 122 · Frankfurt 121 · Düsseldorf 117 · Berlin 102 · Hamburg 87 · Stuttgart 77"
  },
  {
   "id": "lage-art",
-  "datum": "2026-11-25",
+  "datum": "2026-11-26",
   "art": "lage",
-  "titel": "128 Praktika und 93 Werkstudentenjobs bei Top-Arbeitgebern",
+  "titel": "128 Praktika und 92 Werkstudentenjobs bei Top-Arbeitgebern",
   "text": "Insgesamt 515 Stellen in der App."
+ },
+ {
+  "id": "neu-2026-11-25",
+  "datum": "2026-11-25",
+  "art": "neu",
+  "titel": "23 neue Stellen heute",
+  "text": "PwC (13), Forvis Mazars (2), Upvest (1), Roland Berger (1), Bosch (1), CLAAS Saulgau GmbH (1)"
+ },
+ {
+  "id": "neu-2026-11-25-PwC",
+  "datum": "2026-11-25",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 13 neue Stellen ausgeschrieben",
+  "text": "Praktikant / Werkstudent Cloud Transformation (w/m/d) · Praktikum Agentic Venture Scouting & Sales (w/m/d) · Praktikum Venture Analyst & Development (w/m/d)"
  },
  {
   "id": "neu-2026-11-24",
@@ -325,21 +332,5 @@
   "art": "neu",
   "titel": "31 neue Stellen heute",
   "text": "PwC (7), EY GmbH & Co. KG WPG (6), BCG (4), Bosch (3), Scalable Capital (2), EY Tax GmbH Steuerberatungsgesellschaft (2)"
- },
- {
-  "id": "neu-2026-11-17-PwC",
-  "datum": "2026-11-17",
-  "art": "neu",
-  "firma": "PwC",
-  "titel": "PwC hat 7 neue Stellen ausgeschrieben",
-  "text": "Praktikum Financial Services Consulting - Transformation (w/m/d) · Praktikum / Werkstudent Digital Business & Innovation (w/m/d) · Praktikant Automotive Industry (w/m/d)"
- },
- {
-  "id": "neu-2026-11-17-BCG",
-  "datum": "2026-11-17",
-  "art": "neu",
-  "firma": "BCG",
-  "titel": "BCG hat 4 neue Stellen ausgeschrieben",
-  "text": "Working Student—Alumni Relations (all genders) · Working Student - BCG Vantage, Industrial Goods · [Banco de Talentos] Forward Deployed AI Scientist Intern, Brazil - BCG X"
  }
 ]
