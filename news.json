@@ -3,16 +3,16 @@
   "id": "neu-2026-11-26",
   "datum": "2026-11-26",
   "art": "neu",
-  "titel": "6 neue Stellen heute",
-  "text": "PwC (3), Tchibo GmbH Abteilung HRO/HRO-P (1), BCG (1), Robert Bosch GmbH (1)"
+  "titel": "19 neue Stellen heute",
+  "text": "PwC (12), Bosch (4), Tchibo GmbH Abteilung HRO/HRO-P (1), Robert Bosch GmbH (1), PricewaterhouseCoopers GmbH WPG (1)"
  },
  {
   "id": "neu-2026-11-26-PwC",
   "datum": "2026-11-26",
   "art": "neu",
   "firma": "PwC",
-  "titel": "PwC hat 3 neue Stellen ausgeschrieben",
-  "text": "Praktikum Sales & Business Development - Customer Growth & AI (w/m/d) · Praktikum Audit Financial Services (w/m/d) · Praktikum / Werkstudent Public Sector Consulting (w/m/d)"
+  "titel": "PwC hat 12 neue Stellen ausgeschrieben",
+  "text": "Praktikum Performance & Restructuring (w/m/d) · Praktikum Sales & Business Development - Customer Growth & AI (w/m/d) · Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability"
  },
  {
   "id": "presse-6398181",
@@ -87,15 +87,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6396537",
-  "art": "presse",
-  "datum": "2026-11-24",
-  "titel": "GLS Bank finanziert einfaches Bauen in Bayern / Großes kleines Haus in München ist Gebäudetyp-E-Pilotprojekt und jetzt bezugsfertig",
-  "text": "Bezahlbarer Wohnraum ist im Ballungszentrum München rar. Deshalb hat die GLS Bank genau dort gerne eine Finanzierung übernommen: die der Genossenschaft \"Das große kleine Haus\". Das Besondere daran: Es …",
-  "url": "https://www.presseportal.de/pm/64894/6396537",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6396249",
   "art": "presse",
   "datum": "2026-11-23",
@@ -167,28 +158,28 @@
   "art": "lage",
   "firma": "EY",
   "titel": "EY sucht gerade am meisten: 67 offene Stellen",
-  "text": "PwC 54, Deloitte 10 folgen dahinter."
+  "text": "PwC 59, Strategy& 9 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-26",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 69 · Wirtschaftsprüfung 40 · Steuern 32 · Banking 11 · Controlling & Finance 5"
+  "text": "Beratung 71 · Wirtschaftsprüfung 42 · Steuern 31 · Banking 11 · Controlling & Finance 5"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-26",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "München 72 · Düsseldorf 72 · Frankfurt 71 · Berlin 63 · Hamburg 51 · Stuttgart 47"
+  "text": "Frankfurt 75 · Düsseldorf 73 · München 71 · Berlin 66 · Hamburg 57 · Stuttgart 45"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-26",
   "art": "lage",
-  "titel": "96 Praktika und 61 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 451 Stellen in der App."
+  "titel": "100 Praktika und 60 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 459 Stellen in der App."
  },
  {
   "id": "neu-2026-11-25",
