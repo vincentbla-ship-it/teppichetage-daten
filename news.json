@@ -3,8 +3,52 @@
   "id": "neu-2026-11-26",
   "datum": "2026-11-26",
   "art": "neu",
-  "titel": "2 neue Stellen heute",
-  "text": "PwC (1), Robert Bosch GmbH (1)"
+  "titel": "6 neue Stellen heute",
+  "text": "PwC (3), Tchibo GmbH Abteilung HRO/HRO-P (1), BCG (1), Robert Bosch GmbH (1)"
+ },
+ {
+  "id": "neu-2026-11-26-PwC",
+  "datum": "2026-11-26",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 3 neue Stellen ausgeschrieben",
+  "text": "Praktikum Sales & Business Development - Customer Growth & AI (w/m/d) · Praktikum Audit Financial Services (w/m/d) · Praktikum / Werkstudent Public Sector Consulting (w/m/d)"
+ },
+ {
+  "id": "presse-6398181",
+  "art": "presse",
+  "datum": "2026-11-26",
+  "titel": "Mittelstand trifft Startup-Dynamik: WIBank-Programm soll hessischen Unternehmen neue Skalierungsimpulse geben",
+  "text": "Wirtschafts- und Infrastrukturbank Hessen: Offenbach am Main (ots) - Hessische Unternehmen mangelt es nicht an Ideen - wohl aber oft an Zeit, Ressourcen und strukturierten Wegen, um aus guten Ansätzen …",
+  "url": "https://www.presseportal.de/pm/103206/6398181",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6398346",
+  "art": "presse",
+  "datum": "2026-11-26",
+  "titel": "Gen Z erhält viel finanzielle Starthilfe - vermisst aber Orientierung beim Umgang mit Geld",
+  "text": "Neue Studie zeigt: 78 Prozent der Gen Z erhalten oder erwarten finanzielle Starthilfe - zugleich fehlte 28 Prozent eine Person, die ihnen den Umgang mit Geld, Sparen und Vorsorge erklärt. Die Gen Z …",
+  "url": "https://www.presseportal.de/pm/76432/6398346",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6398275",
+  "art": "presse",
+  "datum": "2026-11-26",
+  "titel": "DEVK bietet attraktive Verzinsung ihrer Lebensversicherungen für 2027",
+  "text": "Gute Nachrichten für die Altersvorsorge: Die DEVK bietet ihren Kundinnen und Kunden auch 2027 eine attraktive Verzinsung ihrer Lebensversicherungen. Für die Verträge der DEVK Allgemeine Leben AG …",
+  "url": "https://www.presseportal.de/pm/36522/6398275",
+  "quelle": "presseportal.de"
+ },
+ {
+  "id": "presse-6398214",
+  "art": "presse",
+  "datum": "2026-11-26",
+  "titel": "KfW Research: Demografischer Wandel trifft den deutschen Mittelstand besonders hart",
+  "text": "- Alterung der Beschäftigten noch stärker ausgeprägt als in der Gesamtwirtschaft - Besonders in Kleinstunternehmen sind viele Arbeitnehmer älter als 55 Jahre - Innovative und stark digitalisierte …",
+  "url": "https://www.presseportal.de/pm/41193/6398214",
+  "quelle": "presseportal.de"
  },
  {
   "id": "presse-6397566",
@@ -71,33 +115,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6396339",
-  "art": "presse",
-  "datum": "2026-11-23",
-  "titel": "Deutlicher Sprung bei KI-Erträgen: Jedes dritte deutsche Unternehmen profitiert / Heimische Wirtschaft mit mehr ROI als im globalen Schnitt zeigt Studie von Dun & Bradstreet mit 10.000 Unternehmen",
-  "text": "Dun & Bradstreet Deutschland GmbH: Frankfurt am Main (ots) - Jedes dritte Unternehmen in Deutschland (33 Prozent) erzielt inzwischen einen breiten Return on Investment (ROI) aus Künstlicher …",
-  "url": "https://www.presseportal.de/pm/168910/6396339",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6395853",
-  "art": "presse",
-  "datum": "2026-11-23",
-  "titel": "NOWEDA knackt 11-Milliarden-Umsatzmarke",
-  "text": "Im Rahmen der 88. Generalversammlung am 21. November in Essen informierten Aufsichtsrat und Vorstand der NOWEDA Apothekergenossenschaft über die Geschäftsentwicklung im Geschäftsjahr 2025/2026. Trotz …",
-  "url": "https://www.presseportal.de/pm/65940/6395853",
-  "quelle": "presseportal.de"
- },
- {
-  "id": "presse-6395834",
-  "art": "presse",
-  "datum": "2026-11-23",
-  "titel": "ECOVACS Robotics steigert Umsatz im ersten Halbjahr 2026 um 19,2 Prozent im Vorjahresvergleich",
-  "text": "Umsatz des Konzerns erreicht rund 1,32 Milliarden Euro; Nettogewinn wächst um 27,4 Prozent - internationale Märkte tragen 49 Prozent zum Markenumsatz bei. Eine wichtige Rolle spielt dabei der …",
-  "url": "https://www.presseportal.de/pm/114369/6395834",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6393627",
   "art": "presse",
   "datum": "2026-11-19",
@@ -125,15 +142,6 @@
   "quelle": "presseportal.de"
  },
  {
-  "id": "presse-6390996",
-  "art": "presse",
-  "datum": "2026-11-16",
-  "titel": "Die KfW auf der Weltklimakonferenz COP31 in Antalya: Abschluss von zehn Vereinbarungen in Höhe von rund zwei Milliarden Euro",
-  "text": "- KfW-Chef Wintels: KfW bleibt treibende Kraft beim Umwelt- und Klimaschutz - 2026 und 2027 jeweils 50 Milliarden Euro - Verstärkte Mobilisierung von Privatkapital für die Klimafinanzierung von …",
-  "url": "https://www.presseportal.de/pm/41193/6390996",
-  "quelle": "presseportal.de"
- },
- {
   "id": "presse-6380060",
   "art": "presse",
   "datum": "2026-10-29",
@@ -157,30 +165,30 @@
   "id": "lage-firma",
   "datum": "2026-11-26",
   "art": "lage",
-  "firma": "Deloitte",
-  "titel": "Deloitte sucht gerade am meisten: 72 offene Stellen",
-  "text": "EY 67, PwC 56 folgen dahinter."
+  "firma": "EY",
+  "titel": "EY sucht gerade am meisten: 67 offene Stellen",
+  "text": "PwC 54, Deloitte 10 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-26",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 87 · Wirtschaftsprüfung 62 · Steuern 42 · Banking 18 · Controlling & Finance 11"
+  "text": "Beratung 69 · Wirtschaftsprüfung 40 · Steuern 32 · Banking 11 · Controlling & Finance 5"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-26",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "München 122 · Frankfurt 121 · Düsseldorf 117 · Berlin 102 · Hamburg 87 · Stuttgart 77"
+  "text": "München 72 · Düsseldorf 72 · Frankfurt 71 · Berlin 63 · Hamburg 51 · Stuttgart 47"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-26",
   "art": "lage",
-  "titel": "128 Praktika und 92 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 515 Stellen in der App."
+  "titel": "96 Praktika und 61 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 451 Stellen in der App."
  },
  {
   "id": "neu-2026-11-25",
