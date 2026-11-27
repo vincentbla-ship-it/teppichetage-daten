@@ -3,8 +3,16 @@
   "id": "neu-2026-11-27",
   "datum": "2026-11-27",
   "art": "neu",
-  "titel": "13 neue Stellen heute",
-  "text": "Deloitte (5), PwC (3), Moss (1), LBBW (1), CHECK24 Services Personal GmbH (1), Trade Republic (1)"
+  "titel": "25 neue Stellen heute",
+  "text": "PwC (7), Deloitte (5), Robert Bosch GmbH (4), LBBW (2), Moss (1), Enpal (1)"
+ },
+ {
+  "id": "neu-2026-11-27-PwC",
+  "datum": "2026-11-27",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 7 neue Stellen ausgeschrieben",
+  "text": "Praktikant / Werkstudent Cloud Transformation (w/m/d) · Praktikum Governance, Internal Audit & Compliance Consulting (w/m/d) · Praktikum Innovationsprojekte (w/m/d)"
  },
  {
   "id": "neu-2026-11-27-Deloitte",
@@ -13,14 +21,6 @@
   "firma": "Deloitte",
   "titel": "Deloitte hat 5 neue Stellen ausgeschrieben",
   "text": "Werkstudent Tax Innovation - Garage for Tax & Legal (m/w/d) · Praktikant / Werkstudent Transfer Pricing (m/w/d) · Praktikant / Werkstudent Finance & Accounting, Controlling (m/w/d)"
- },
- {
-  "id": "neu-2026-11-27-PwC",
-  "datum": "2026-11-27",
-  "art": "neu",
-  "firma": "PwC",
-  "titel": "PwC hat 3 neue Stellen ausgeschrieben",
-  "text": "Praktikum energiewirtschaftliche Prüfung und Beratung (w/m/d) · Praktikum / Werkstudent Transfer Pricing (w/m/d) · Praktikum Audit (w/m/d)"
  },
  {
   "id": "presse-6398181",
@@ -166,28 +166,28 @@
   "art": "lage",
   "firma": "EY",
   "titel": "EY sucht gerade am meisten: 67 offene Stellen",
-  "text": "PwC 57, Deloitte 13 folgen dahinter."
+  "text": "PwC 60, Deloitte 13 folgen dahinter."
  },
  {
   "id": "lage-bereich",
   "datum": "2026-11-27",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 71 · Wirtschaftsprüfung 40 · Steuern 34 · Banking 11 · Controlling & Finance 6"
+  "text": "Beratung 73 · Wirtschaftsprüfung 41 · Steuern 35 · Banking 11 · Controlling & Finance 5"
  },
  {
   "id": "lage-stadt",
   "datum": "2026-11-27",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 76 · München 75 · Düsseldorf 75 · Berlin 69 · Hamburg 57 · Stuttgart 51"
+  "text": "Frankfurt 79 · Düsseldorf 77 · München 76 · Berlin 70 · Hamburg 60 · Stuttgart 50"
  },
  {
   "id": "lage-art",
   "datum": "2026-11-27",
   "art": "lage",
-  "titel": "100 Praktika und 62 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 465 Stellen in der App."
+  "titel": "102 Praktika und 63 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 353 Stellen in der App."
  },
  {
   "id": "neu-2026-11-26",
