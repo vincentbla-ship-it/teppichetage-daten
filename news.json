@@ -1,26 +1,10 @@
 [
  {
-  "id": "neu-2026-11-27",
-  "datum": "2026-11-27",
+  "id": "neu-2026-11-28",
+  "datum": "2026-11-28",
   "art": "neu",
-  "titel": "25 neue Stellen heute",
-  "text": "PwC (7), Deloitte (5), Robert Bosch GmbH (4), LBBW (2), Moss (1), Enpal (1)"
- },
- {
-  "id": "neu-2026-11-27-PwC",
-  "datum": "2026-11-27",
-  "art": "neu",
-  "firma": "PwC",
-  "titel": "PwC hat 7 neue Stellen ausgeschrieben",
-  "text": "Praktikant / Werkstudent Cloud Transformation (w/m/d) · Praktikum Governance, Internal Audit & Compliance Consulting (w/m/d) · Praktikum Innovationsprojekte (w/m/d)"
- },
- {
-  "id": "neu-2026-11-27-Deloitte",
-  "datum": "2026-11-27",
-  "art": "neu",
-  "firma": "Deloitte",
-  "titel": "Deloitte hat 5 neue Stellen ausgeschrieben",
-  "text": "Werkstudent Tax Innovation - Garage for Tax & Legal (m/w/d) · Praktikant / Werkstudent Transfer Pricing (m/w/d) · Praktikant / Werkstudent Finance & Accounting, Controlling (m/w/d)"
+  "titel": "3 neue Stellen heute",
+  "text": "PwC (2), BCG (1)"
  },
  {
   "id": "presse-6398181",
@@ -162,32 +146,55 @@
  },
  {
   "id": "lage-firma",
-  "datum": "2026-11-27",
+  "datum": "2026-11-28",
   "art": "lage",
   "firma": "EY",
   "titel": "EY sucht gerade am meisten: 67 offene Stellen",
-  "text": "PwC 60, Deloitte 13 folgen dahinter."
+  "text": "PwC 62, Deloitte 13 folgen dahinter."
  },
  {
   "id": "lage-bereich",
-  "datum": "2026-11-27",
+  "datum": "2026-11-28",
   "art": "lage",
   "titel": "Wo es gerade die meisten Stellen gibt",
-  "text": "Beratung 73 · Wirtschaftsprüfung 41 · Steuern 35 · Banking 11 · Controlling & Finance 5"
+  "text": "Beratung 73 · Wirtschaftsprüfung 42 · Steuern 35 · Banking 11 · Controlling & Finance 6"
  },
  {
   "id": "lage-stadt",
-  "datum": "2026-11-27",
+  "datum": "2026-11-28",
   "art": "lage",
   "titel": "Die Städte mit den meisten Stellen",
-  "text": "Frankfurt 79 · Düsseldorf 77 · München 76 · Berlin 70 · Hamburg 60 · Stuttgart 50"
+  "text": "Frankfurt 81 · München 79 · Düsseldorf 79 · Berlin 72 · Hamburg 62 · Stuttgart 52"
  },
  {
   "id": "lage-art",
-  "datum": "2026-11-27",
+  "datum": "2026-11-28",
   "art": "lage",
-  "titel": "102 Praktika und 63 Werkstudentenjobs bei Top-Arbeitgebern",
-  "text": "Insgesamt 353 Stellen in der App."
+  "titel": "102 Praktika und 65 Werkstudentenjobs bei Top-Arbeitgebern",
+  "text": "Insgesamt 355 Stellen in der App."
+ },
+ {
+  "id": "neu-2026-11-27",
+  "datum": "2026-11-27",
+  "art": "neu",
+  "titel": "25 neue Stellen heute",
+  "text": "PwC (7), Deloitte (5), Robert Bosch GmbH (4), LBBW (2), Moss (1), Enpal (1)"
+ },
+ {
+  "id": "neu-2026-11-27-PwC",
+  "datum": "2026-11-27",
+  "art": "neu",
+  "firma": "PwC",
+  "titel": "PwC hat 7 neue Stellen ausgeschrieben",
+  "text": "Praktikant / Werkstudent Cloud Transformation (w/m/d) · Praktikum Governance, Internal Audit & Compliance Consulting (w/m/d) · Praktikum Innovationsprojekte (w/m/d)"
+ },
+ {
+  "id": "neu-2026-11-27-Deloitte",
+  "datum": "2026-11-27",
+  "art": "neu",
+  "firma": "Deloitte",
+  "titel": "Deloitte hat 5 neue Stellen ausgeschrieben",
+  "text": "Werkstudent Tax Innovation - Garage for Tax & Legal (m/w/d) · Praktikant / Werkstudent Transfer Pricing (m/w/d) · Praktikant / Werkstudent Finance & Accounting, Controlling (m/w/d)"
  },
  {
   "id": "neu-2026-11-26",
@@ -316,28 +323,5 @@
   "art": "neu",
   "titel": "26 neue Stellen heute",
   "text": "PwC (12), Bosch (3), PricewaterhouseCoopers GmbH WPG (3), Deloitte (3), REWE Group (1), Indaver Deutschland GmbH (1)"
- },
- {
-  "id": "neu-2026-11-19-PwC",
-  "datum": "2026-11-19",
-  "art": "neu",
-  "firma": "PwC",
-  "titel": "PwC hat 12 neue Stellen ausgeschrieben",
-  "text": "Werkstudent KI-Agenten & SAP (w/m/d) · Praktikum Financial Services Consulting - Transformation (w/m/d) · Praktikant / Werkstudent Financial Services Assurance - Finance, Reporting & Sustainability"
- },
- {
-  "id": "neu-2026-11-19-Deloitte",
-  "datum": "2026-11-19",
-  "art": "neu",
-  "firma": "Deloitte",
-  "titel": "Deloitte hat 3 neue Stellen ausgeschrieben",
-  "text": "Praktikant Operations / Consulting (m/w/d) · Werkstudent Talent Sourcing (m/w/d) · Werkstudent Business Development - Automotive (m/w/d)"
- },
- {
-  "id": "neu-2026-11-18",
-  "datum": "2026-11-18",
-  "art": "neu",
-  "titel": "136 neue Stellen heute",
-  "text": "PricewaterhouseCoopers GmbH WPG (119), PwC (9), LBBW (2), Trade Republic (1), Bosch (1), ING Deutschland (1)"
  }
 ]
